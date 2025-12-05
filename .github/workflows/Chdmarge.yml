@@ -1,68 +1,130 @@
-name: Merge CricHD Playlists
+# 工作流名称：合并 CricHD 播放列表
+name: Merge CricHD Playlists（合并 CricHD 播放列表）
 
+# 触发条件配置
 on:
+  # 定时触发 - 使用 cron 表达式
   schedule:
+    # 每20分钟执行一次（分钟 小时 日 月 星期）
+    # */20 表示每20分钟，即 0,20,40 分钟时执行
     - cron: "*/20 * * * *"
+  # 手动触发 - 允许在 GitHub 界面手动运行此工作流
   workflow_dispatch:
 
+# 定义作业
 jobs:
+  # 作业名称：merge（合并）
   merge:
+    # 运行环境：最新版 Ubuntu
     runs-on: ubuntu-latest
 
+    # 定义作业步骤
     steps:
+      # 步骤1：检出代码仓库
       - name: Checkout repository
+        # 使用官方 checkout action 将代码检出到工作目录
         uses: actions/checkout@v3
 
+      # 步骤2：设置 Python 环境
       - name: Set up Python
+        # 使用官方 setup-python action 安装 Python
         uses: actions/setup-python@v4
         with:
+          # 安装 Python 3.x 的最新版本
           python-version: 3.x
 
+      # 步骤3：安装必要的 Python 包
       - name: Install requests
+        # 使用 pip 安装 requests 库，用于发送 HTTP 请求
         run: pip install requests
 
+      # 步骤4：下载并合并 M3U 播放列表
       - name: Download and Merge M3U
+        # 运行 Python 脚本
         run: |
+          # 导入必要的库
           import requests, re, os
+          
+          # 从环境变量中获取两个播放列表的 URL
           url1 = os.environ["CRICHD1_URL"]
           url2 = os.environ["CRICHD2_URL"]
           
+          # 定义函数：获取 M3U 文件内容并拆分为行列表
           def fetch_m3u(url):
+              # 发送 GET 请求获取内容，去除首尾空白，按行分割
               return requests.get(url).text.strip().splitlines()
           
+          # 定义函数：修改播放列表中的 group-title
           def change_group_title(lines, title):
-              result = []
+              result = []  # 存储修改后的行
               for line in lines:
+                  # 检查是否是 #EXTINF: 行（播放列表条目）
                   if line.startswith("#EXTINF:"):
+                      # 如果已有 group-title 属性，则替换它
                       if 'group-title="' in line:
+                          # 使用正则表达式替换 group-title 的值
                           line = re.sub(r'group-title="[^"]*"', f'group-title="{title}"', line)
                       else:
+                          # 如果没有 group-title，则在逗号前插入
+                          # 替换第一个逗号为 ' group-title="标题",'
                           line = line.replace(',', f' group-title="{title}",', 1)
+                  # 将修改后的行添加到结果列表
                   result.append(line)
               return result
 
+          # 获取并处理第一个播放列表，将分组标题改为 "CricHD 1"
           m3u1 = change_group_title(fetch_m3u(url1), "CricHD 1")
+          # 获取并处理第二个播放列表，将分组标题改为 "CricHD 2"
           m3u2 = change_group_title(fetch_m3u(url2), "CricHD 2")
+          
+          # 合并两个播放列表：
+          # 1. 以 #EXTM3U 开头（M3U 文件头部）
+          # 2. 跳过每个播放列表的第一个元素（因为第一个元素是 #EXTM3U 头）
+          # 3. 将两个列表剩余部分合并
           merged = ["#EXTM3U"] + m3u1[1:] + m3u2[1:]
           
+          # 将合并后的播放列表写入文件
           with open("CricHD.m3u", "w", encoding="utf-8") as f:
+              # 将列表中的每行用换行符连接并写入文件
               f.write("\n".join(merged))
+        # 设置环境变量（从 GitHub Secrets 中获取）
         env:
+          # 第一个 CricHD 播放列表的 URL
           CRICHD1_URL: ${{ secrets.CRICHD1_URL }}
+          # 第二个 CricHD 播放列表的 URL
           CRICHD2_URL: ${{ secrets.CRICHD2_URL }}
+        # 指定使用 Python 解释器执行脚本
         shell: python
 
+      # 步骤5：提交更改并推送到仓库
       - name: Commit and Push
         run: |
+          # 配置 git 用户名（从 Secrets 获取）
           git config user.name "${{ secrets.GIT_U }}"
+          # 配置 git 邮箱（从 Secrets 获取）
           git config user.email "${{ secrets.GIT_E }}"
+          # 将新生成的播放列表文件添加到暂存区
           git add CricHD.m3u
           
-          # Check
+          # 检查是否有实际更改需要提交
+          # git diff --cached --quiet 命令：
+          # --cached: 查看暂存区与上次提交的差异
+          # --quiet: 安静模式，如果有差异则返回非零退出码
+          # ! 取反：如果有差异（即有更改），则执行 if 块
           if ! git diff --cached --quiet; then
+            # 提交更改到本地仓库
             git commit -m "Auto-merge CricHD playlists"
+            # 拉取远程最新更改并变基（避免冲突）
             git pull --rebase origin main
+            # 推送更改到远程仓库的 main 分支
             git push origin main
           else
+            # 如果没有更改，输出提示信息
             echo "No changes to commit"
           fi
+          #主要功能总结：
+#定时任务：每20分钟自动执行一次
+#数据获取：从两个 URL 获取 M3U 播放列表
+#数据处理：修改每个播放列表的 group-title 属性、第一个列表标记为 "CricHD 1"、第二个列表标记为 "CricHD 2"
+#文件合并：将两个播放列表合并为一个 CricHD.m3u 文件
+#自动提交：如果有更改，自动提交并推送到 GitHub 仓库

@@ -1,30 +1,69 @@
+# 工作流名称
 name: X
 
+# 触发条件
 on:
+  # 定时触发
   schedule:
+    # 每小时执行一次（cron表达式：分钟 小时 日 月 星期）
     - cron: "0 * * * *"
+  # 手动触发（允许在 GitHub 界面上手动运行）
   workflow_dispatch:
 
+# 定义作业
 jobs:
+  # 作业1，命名为 j1
   j1:
+    # 运行环境：最新版 Ubuntu
     runs-on: ubuntu-latest
+    
+    # 作业步骤
     steps:
+      # 步骤1：检出代码到工作区
       - uses: actions/checkout@v3
+      
+      # 步骤2：自定义步骤
       - name: s1
+        # 设置环境变量（从仓库secrets中读取）
         env:
+          # 从secrets读取 s2 并赋值给 a1
           a1: ${{ secrets.s2 }}
+          # 从secrets读取 f2 并赋值给 b2
           b2: ${{ secrets.f2 }}
+          # 从secrets读取 gu 并赋值给 c3
           c3: ${{ secrets.gu }}
+          # 从secrets读取 ge 并赋值给 d4
           d4: ${{ secrets.ge }}
+        # 使用 Python 作为 shell 执行脚本
         run: |
+          # 导入必要的 Python 模块
           import datetime, os
+          
+          # 获取当前 UTC 时间并格式化为字符串
           t = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')
+          # 创建提交信息：LUT-时间（移除空格和冒号）
           m = f"LUT-{t.replace(' ', '').replace(':','')}"
+          
+          # 使用 curl 下载文件：
+          # 从环境变量 a1（URL）下载文件到 b2（文件名）
           os.system(f'curl -sSL "{os.environ["a1"]}" -o "{os.environ["b2"]}"')
+          
+          # 配置 git 用户名
           os.system(f'git config --global user.name "{os.environ["c3"]}"')
+          # 配置 git 邮箱
           os.system(f'git config --global user.email "{os.environ["d4"]}"')
+          
+          # 将下载的文件添加到 git 暂存区
           os.system(f'git add {os.environ["b2"]}')
+          
+          # 提交更改，使用生成的消息 m
+          # 如果提交失败（没有变化），输出 'x' 避免脚本失败
           os.system(f'git commit -m "{m}" || echo x')
+          
+          # 推送更改到远程仓库
           os.system('git push')
+          
+          # 打印提交消息（便于在日志中查看）
           print(f"MSG:{m}")
+        # 指定使用 Python 解释器执行脚本
         shell: python

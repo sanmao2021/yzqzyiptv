@@ -1,5 +1,5 @@
 # 工作流名称：合并 M3U 文件
-name: Merge M3U
+name: Merge M3U(合并仓库所有 M3U 文件到playlist.m3u)
 
 # 工作流触发条件配置
 on:

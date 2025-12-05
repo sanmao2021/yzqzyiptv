@@ -1,55 +1,110 @@
+# 工作流名称：合并 M3U 文件
 name: Merge M3U
 
+# 工作流触发条件配置
 on:
+  # 定时触发 - 使用 cron 表达式
   schedule:
+    # 每小时执行一次（分钟 小时 日 月 星期）
+    # 每小时的第0分钟执行，即整点执行
     - cron: '0 * * * *'
+  # 手动触发 - 允许在 GitHub 界面手动运行此工作流
   workflow_dispatch:
 
+# 定义作业
 jobs:
+  # 作业名称：merge-m3u（合并M3U）
   merge-m3u:
+    # 运行环境：最新版 Ubuntu
     runs-on: ubuntu-latest
 
+    # 定义作业步骤
     steps:
+    # 步骤1：检出代码仓库
     - name: Checkout repo
+      # 使用官方 checkout action 将代码检出到工作目录
       uses: actions/checkout@v3
 
+    # 步骤2：合并所有 M3U 文件
     - name: Merge all
+      # 使用 bash shell 执行命令
       run: |
+        # 创建一个临时目录用于处理合并过程，-p 参数确保目录不存在时创建
         mkdir -p merged_tmp
+        # 清空或创建合并后的播放列表文件（使用 echo -n > 清空文件内容）
         echo -n > merged_tmp/combined-playlist.m3u
 
+        # 使用 find 命令查找当前目录及其子目录中所有的 .m3u 文件
+        # 排除条件：
+        # ! -path "./merged_tmp/*" : 排除 merged_tmp 目录下的文件
+        # ! -name "combined-playlist.m3u" : 排除名为 combined-playlist.m3u 的文件（最终输出文件）
+        # 遍历找到的每个文件
         find . -type f -name "*.m3u" ! -path "./merged_tmp/*" ! -name "combined-playlist.m3u" | while read file; do
+          # 获取文件名（不含路径和扩展名），用作分组名称
           base=$(basename "$file" .m3u)
+          
+          # 使用 awk 处理每个 M3U 文件
+          # -v grp="$base" : 将文件名（不含扩展名）作为变量 grp 传递给 awk
           awk -v grp="$base" '
+            # 跳过每个文件的第一个 #EXTM3U 行（将在最后统一添加）
             NR == 1 && $0 == "#EXTM3U" { next }
+            
+            # 处理 #EXTINF 行（播放列表条目信息）
             /^#EXTINF/ {
+              # 如果当前行已经包含 group-title 属性
               if ($0 ~ /group-title="/) {
+                # 替换现有的 group-title 值为新的分组名称
                 sub(/group-title="[^"]*"/, "group-title=\"" grp "\"")
               } else {
+                # 如果没有 group-title，在 #EXTINF: 后添加 group-title 属性
+                # 格式：-1 表示无限时长，然后添加 group-title="分组名称"
                 sub(/#EXTINF:/, "#EXTINF:-1 group-title=\"" grp "\",")
               }
+              # 打印修改后的 #EXTINF 行
               print
+              # 读取下一行（通常是流媒体URL）
               getline
+              # 打印URL行
               print
+              # 跳过后续处理，继续下一个循环
               next
             }
+            
+            # 对于所有其他行，直接打印
             { print }
-          ' "$file" >> merged_tmp/combined-playlist.m3u
+          ' "$file" >> merged_tmp/combined-playlist.m3u  # 将处理结果追加到合并文件中
         done
 
+        # 在所有内容处理完成后，在文件开头插入 #EXTM3U 头部
+        # sed -i '1i #EXTM3U' : 在第一行之前插入 #EXTM3U
         sed -i '1i #EXTM3U' merged_tmp/combined-playlist.m3u
 
+        # 将合并后的文件移动到当前目录
         mv merged_tmp/combined-playlist.m3u combined-playlist.m3u
+        # 删除临时目录
         rm -rf merged_tmp
 
+    # 步骤3：提交并推送合并后的播放列表
     - name: Commit and push merged playlist
       run: |
+        # 配置 git 用户名（从 GitHub Secrets 获取）
         git config user.name "${{ secrets.GIT_U }}"
+        # 配置 git 邮箱（从 GitHub Secrets 获取）
         git config user.email "${{ secrets.GIT_E }}"
+        # 将合并后的播放列表文件添加到暂存区
         git add combined-playlist.m3u
+        
+        # 检查是否有实际更改需要提交
+        # git diff --cached --quiet 命令：
+        # --cached: 查看暂存区与上次提交的差异
+        # --quiet: 安静模式，如果有差异则返回非零退出码
+        # ! 取反：如果有差异（即有更改），则执行 if 块
         if ! git diff --cached --quiet; then
+          # 提交更改到本地仓库，包含当前 UTC 时间
           git commit -m "Auto-merged m3u playlists $(date -u +"%Y-%m-%d %H:%M UTC")"
+          # 推送更改到远程仓库
           git push
         else
+          # 如果没有更改，输出提示信息
           echo "No changes to commit"
         fi

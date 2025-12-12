@@ -1,33 +1,58 @@
+# 工作流名称：更新 TVPass 播放列表
 name: Update TVPass Playlist
 
+# 触发条件
 on:
+  # 定时触发 - 每6小时的整点执行一次（UTC时间）
   schedule:
     - cron: '0 */6 * * *' 
+  # 手动触发 - 在 GitHub 仓库页面可以手动运行
   workflow_dispatch:       
 
+# 定义工作流中的任务
 jobs:
+  # 任务名称：update-playlist（更新播放列表）
   update-playlist:
+    # 指定运行环境：最新版的 Ubuntu
     runs-on: ubuntu-latest
 
+    # 任务步骤
     steps:
+      # 步骤1：检出代码库
       - name: Checkout repository
+        # 使用官方 checkout action 第4版
         uses: actions/checkout@v4
 
+      # 步骤2：设置 Python 环境
       - name: Set up Python
+        # 使用官方 setup-python action 第5版
         uses: actions/setup-python@v5
         with:
+          # 指定 Python 版本为 3.x（自动选择最新的 3.x 版本）
           python-version: '3.x'
 
+      # 步骤3：安装 Python 依赖
       - name: Install dependencies
+        # 使用 pip 安装 requests 库（用于 HTTP 请求）
         run: pip install requests
 
+      # 步骤4：运行 Python 脚本
       - name: Run tvpass.py
+        # 执行 tvpass.py 脚本，该脚本位于 file/ 目录下
         run: python file/tvpass.py
 
+      # 步骤5：提交更改（如果有的话）
       - name: Commit changes if any
+        # 多行命令，设置 git 配置并提交更改
         run: |
+          # 设置 git 用户名（从 GitHub Secrets 获取）
           git config user.name "${{ secrets.GIT_U }}"
+          # 设置 git 邮箱（从 GitHub Secrets 获取）
           git config user.email "${{ secrets.GIT_E }}"
+          # 将 TVPass.m3u 文件添加到暂存区（假设这是 tvpass.py 生成的播放列表文件）
           git add TVPass.m3u
+          # 检查暂存区是否有变更（--quiet 表示静默模式）
+          # 如果有变更则执行提交，否则跳过（|| 运算符表示左侧命令失败时执行右侧命令）
           git diff --cached --quiet || git commit -m "auto-update TVPass.m3u"
+          # 推送更改到远程仓库
           git push

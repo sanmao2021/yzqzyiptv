@@ -7,8 +7,8 @@ name: X
 on:
   # 定时触发
   schedule:
-    # 每小时执行一次（cron表达式：分钟 小时 日 月 星期）
-    - cron: "0 * * * *"
+    # 每小时执行一次（cron表达式：分钟 小时 日 月 星期）每天执行1次
+    - cron: "0 0 * * *"
   # 手动触发（允许在 GitHub 界面上手动运行）
   workflow_dispatch:
 

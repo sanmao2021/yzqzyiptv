@@ -5,9 +5,9 @@ name: Merge CricHD Playlists（合并 CricHD 播放列表）
 on:
   # 定时触发 - 使用 cron 表达式
   schedule:
-    # 每20分钟执行一次（分钟 小时 日 月 星期）
+    # 每20分钟执行一次（分钟 小时 日 月 星期）改为每天2点执行1次
     # */20 表示每20分钟，即 0,20,40 分钟时执行
-    - cron: "*/20 * * * *"
+    - cron: "0 2 * * *"
   # 手动触发 - 允许在 GitHub 界面手动运行此工作流
   workflow_dispatch:
 

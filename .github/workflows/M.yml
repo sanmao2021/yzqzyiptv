@@ -5,9 +5,9 @@ name: Merge M3U(合并仓库所有 M3U 文件到playlist.m3u)
 on:
   # 定时触发 - 使用 cron 表达式
   schedule:
-    # 每小时执行一次（分钟 小时 日 月 星期）
+    # 每小时执行一次（分钟 小时 日 月 星期）每天4点执行
     # 每小时的第0分钟执行，即整点执行
-    - cron: '0 * * * *'
+    - cron: '0 4 * * *'
   # 手动触发 - 允许在 GitHub 界面手动运行此工作流
   workflow_dispatch:
 

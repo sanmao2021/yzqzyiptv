@@ -1,5 +1,5 @@
 # 工作流名称:（下载文件 → 添加到git → 提交 → 推送）
-name: X
+name: downloadlist
 
 # 触发条件
 on:

@@ -41,10 +41,7 @@ jobs:
         run: |
           # 导入必要的 Python 模块
           import datetime, os, subprocess
-          
-          
-       
-          
+               
           # 调试信息：显示当前目录
           print("=" * 50)
           print("当前工作目录:", os.getcwd())

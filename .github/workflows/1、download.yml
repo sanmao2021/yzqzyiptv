@@ -37,24 +37,11 @@ jobs:
           file_3: ${{ secrets.file_3 }}
           git_user: ${{ secrets.git_user }}
           git_email: ${{ secrets.git_email }}
+          
         # 使用 Python 作为 shell 执行脚本
         run: |
           # 导入必要的 Python 模块
           import datetime, os, subprocess
-          
-          # 调试信息：显示当前目录
-          print("=" * 50)
-          print("当前工作目录:", os.getcwd())
-          print("目录内容:")
-          os.system('ls -la')
-          print("=" * 50)
-          
-          # 显示 git 信息
-          print("Git 信息:")
-          os.system('git branch -a')
-          os.system('git remote -v')
-          print("=" * 50)
-          
           # 获取当前 UTC 时间并格式化为字符串
           t = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')
           # 创建提交信息：LUT-时间（移除空格和冒号）

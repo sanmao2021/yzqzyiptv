@@ -43,14 +43,7 @@ jobs:
           import datetime, os, subprocess
           
           
-          # 检查环境变量
-for key in ['url_1', 'file_1', 'url_2', 'file_2', 'url_3', 'file_3', 'git_user', 'git_email']:
-    value = os.environ.get(key)
-    if value:
-        print(f"{key}: 已设置（值隐藏）")
-    else:
-        print(f"{key}: 未设置")
-          
+       
           
           # 调试信息：显示当前目录
           print("=" * 50)

@@ -1,5 +1,5 @@
 # 工作流名称:（下载文件 → 添加到git → 提交 → 推送）
-name: X
+name: 自动下载文件
 
 # 触发条件
 on:
@@ -21,31 +21,39 @@ jobs:
     steps:
       # 步骤1：检出代码到工作区
       - uses: actions/checkout@v3
+        with:
+          # 明确指定分支（改为你的分支名）
+          ref: main
       
       # 步骤2：自定义步骤
       - name: s1
         # 设置环境变量（从仓库secrets中读取）
         env:
-          # 从secrets读取 url_1 并赋值给 url_1 环境变量
           url_1: ${{ secrets.url_1 }}
-          # 从secrets读取 file_1 并赋值给 file_1 环境变量
           file_1: ${{ secrets.file_1 }}
-          # 从secrets读取 url_2 并赋值给 url_2 环境变量
           url_2: ${{ secrets.url_2 }}
-          # 从secrets读取 file_2 并赋值给 file_2 环境变量
           file_2: ${{ secrets.file_2 }}
-          # 从secrets读取 url_3 并赋值给 url_3 环境变量
           url_3: ${{ secrets.url_3 }}
-          # 从secrets读取 file_3 并赋值给 file_3 环境变量
           file_3: ${{ secrets.file_3 }}
-          # 从secrets读取 git_user 并赋值给 git_user 环境变量
           git_user: ${{ secrets.git_user }}
-          # 从secrets读取 git_email 并赋值给 git_email 环境变量
           git_email: ${{ secrets.git_email }}
         # 使用 Python 作为 shell 执行脚本
         run: |
           # 导入必要的 Python 模块
-          import datetime, os
+          import datetime, os, subprocess
+          
+          # 调试信息：显示当前目录
+          print("=" * 50)
+          print("当前工作目录:", os.getcwd())
+          print("目录内容:")
+          os.system('ls -la')
+          print("=" * 50)
+          
+          # 显示 git 信息
+          print("Git 信息:")
+          os.system('git branch -a')
+          os.system('git remote -v')
+          print("=" * 50)
           
           # 获取当前 UTC 时间并格式化为字符串
           t = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')
@@ -59,33 +67,68 @@ jobs:
           
           # 定义要下载的URL和文件名对的列表
           download_pairs = [
-              (os.environ.get("url_1"), os.environ.get("file_1")),  # 第一对URL和文件名
-              (os.environ.get("url_2"), os.environ.get("file_2")),  # 第二对URL和文件名
-              (os.environ.get("url_3"), os.environ.get("file_3")),  # 第三对URL和文件名
+              (os.environ.get("url_1"), os.environ.get("file_1")),
+              (os.environ.get("url_2"), os.environ.get("file_2")),
+              (os.environ.get("url_3"), os.environ.get("file_3")),
           ]
           
           # 循环遍历所有下载对
+          files_added = False
           for url, filename in download_pairs:
               # 检查URL和文件名是否都存在
               if url and filename:
-                  # 使用 curl 下载文件：从环境变量 url 下载文件到 filename
-                  os.system(f'curl -sSL "{url}" -o "{filename}"')
-                  # 将下载的文件添加到 git 暂存区
-                  os.system(f'git add {filename}')
-                  # 打印下载信息
-                  print(f"Downloaded: {url} -> {filename}")
+                  print(f"\n正在处理: {filename}")
+                  print(f"URL: {url}")
+                  
+                  # 使用 curl 下载文件
+                  curl_cmd = f'curl -fsSL "{url}" -o "{filename}"'
+                  print(f"执行命令: {curl_cmd}")
+                  
+                  result = os.system(curl_cmd)
+                  if result == 0:
+                      # 检查文件是否存在且非空
+                      if os.path.exists(filename):
+                          file_size = os.path.getsize(filename)
+                          print(f"✓ 下载成功: {filename} ({file_size} 字节)")
+                          
+                          if file_size > 0:
+                              # 添加到 git
+                              os.system(f'git add {filename}')
+                              files_added = True
+                              print(f"✓ 已添加到 git: {filename}")
+                          else:
+                              print(f"⚠ 文件为空: {filename}")
+                      else:
+                          print(f"✗ 文件不存在: {filename}")
+                  else:
+                      print(f"✗ 下载失败: {url}")
+                      print(f"错误代码: {result}")
               else:
-                  # 如果URL或文件名为空，跳过该对
-                  print(f"Skipped empty pair: url={url}, filename={filename}")
+                  print(f"⚠ 跳过空对: url={url}, filename={filename}")
           
-          # 提交更改，使用生成的消息 m
-          # 如果提交失败（没有变化），输出 'x' 避免脚本失败
-          os.system(f'git commit -m "{m}" || echo x')
+          print("\n" + "=" * 50)
+          print("Git 状态:")
+          os.system('git status')
+          print("=" * 50)
           
-          # 推送更改到远程仓库
-          os.system('git push')
+          if files_added:
+              # 提交更改
+              commit_cmd = f'git commit -m "{m}"'
+              print(f"提交命令: {commit_cmd}")
+              os.system(commit_cmd)
+              
+              # 推送更改到远程仓库
+              print("\n开始推送...")
+              push_result = os.system('git push')
+              if push_result == 0:
+                  print("✓ 推送成功！")
+              else:
+                  print(f"✗ 推送失败！错误代码: {push_result}")
+          else:
+              print("没有文件需要提交，跳过提交和推送")
           
-          # 打印提交消息（便于在日志中查看）
-          print(f"MSG:{m}")
+          # 打印提交消息
+          print(f"\n提交信息: {m}")
+          print("=" * 50)
         # 指定使用 Python 解释器执行脚本
         shell: python

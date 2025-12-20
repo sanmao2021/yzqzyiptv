@@ -49,13 +49,7 @@ jobs:
           env_keys = [k for k in os.environ.keys() if 'url' in k or 'file' in k or 'git' in k]
           if env_keys:
           print("找到的环境变量:")
-          for key in env_keys:
-          value = os.environ[key]
-          if 'url' in key:
-            # 对于URL，只显示前50个字符和长度
-            print(f"  {key}: 长度={len(value)}字符, 前50字符={value[:50]}...")
-
-        
+          
           # 调试信息：显示当前目录
           print("=" * 50)
           print("当前工作目录:", os.getcwd())

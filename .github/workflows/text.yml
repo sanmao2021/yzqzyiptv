@@ -1,8 +1,14 @@
-      - name: 调试输出环境变量
+name: 测试secrets
+
+on: [workflow_dispatch]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 测试secrets
         run: |
-          echo "url 是否设置: $([ -n \"${{ secrets.url }}\" ] && echo '是' || echo '否')"
-          echo "url 长度: ${#{{ secrets.url }}}"
-          echo "filename 是否设置: $([ -n \"${{ secrets.filename }}\" ] && echo '是' || echo '否')"
+          echo "url: ${{ secrets.url }}"
           echo "filename: ${{ secrets.filename }}"
-          echo "git_user 是否设置: $([ -n \"${{ secrets.git_user }}\" ] && echo '是' || echo '否')"
-          echo "git_email 是否设置: $([ -n \"${{ secrets.git_email }}\" ] && echo '是' || echo '否')"
+          echo "git_user: ${{ secrets.git_user }}"
+          echo "git_email: ${{ secrets.git_email }}"

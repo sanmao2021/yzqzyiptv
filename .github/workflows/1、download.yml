@@ -49,8 +49,7 @@ jobs:
           # 配置 git 用户名
           os.system('git config --global user.name "GitHub yzq"')
           # 配置 git 邮箱
-          os.system('git config --global user.email "yzq@github.com"')
-          
+          os.system('git config --global user.email "yzq@github.com"')          
           # 定义要下载的URL和文件名对的列表
           download_pairs = [   Download_pairs = [
               (os.environ.get("url"), os.environ.get("filename")),

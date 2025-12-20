@@ -15,45 +15,44 @@ jobs:
   # 作业1，命名为 j1
   j1:
     # 运行环境：最新版 Ubuntu
-    runs-on: ubuntu-latest
+    runs-on   上运行:ubuntu-latest: ubuntu-latest
     
     # 作业步骤
     steps:
       # 步骤1：检出代码到工作区
-      - uses: actions/checkout@v3
+      - -使用：actions/checkout@v3uses: actions/checkout@v3
         with:
           # 明确指定分支（改为你的分支名）
-          ref: main
+          ref   裁判:主要: main
       
       # 步骤2：自定义步骤
-      - name: s1
+      -    —name: s1name: s1
         # 设置环境变量（从仓库secrets中读取）
         env:
-          url: ${{ secrets.url }}
-          filename: ${{ secrets.filename }}
-          #url2: ${{ secrets.url_2 }}
+          url   Url: ${{secrets。url}}: ${{ secrets.url }}
+          filename文件名：${{secrets.filename}}: ${{ secrets.filename }}
+          #url2: ${{秘密。url_2}}#url2: ${{秘密。url_2}}#url2: ${{ secrets.url_2 }}
           #file2: ${{ secrets.file_2 }}
-          #url3: ${{ secrets.url_3 }}
+          #url3: ${{秘密。url_3}}#url3: ${{秘密。url_3}}#url3: ${{ secrets.url_3 }}
           #file3: ${{ secrets.file_3 }}
-          git_user: ${{ secrets.git_user }}
-          git_email: ${{ secrets.git_email }}
+
           
         # 使用 Python 作为 shell 执行脚本
-        run: |
+        run   运行: |
           # 导入必要的 Python 模块
-          import datetime, os, subprocess
+          import datetime, os, subprocess导入日期时间、操作系统、子进程
           # 获取当前 UTC 时间并格式化为字符串
-          t = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')
+          t = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')T = datetime.datetime. utknow（）。strftime（'%Y-%m-%d %H:% m:%S UTC'）
           # 创建提交信息：LUT-时间（移除空格和冒号）
-          m = f"LUT-{t.replace(' ', '').replace(':','')}"
+          m = f"LUT-{t.replace(' ', '').replace(':','')}"m = f"LUT-{t；Replace (':', ").replace(':', ")}
           
           # 配置 git 用户名
-          os.system(f'git config --global user.name "{os.environ["git_user"]}"')
+          os.system('git config --global user.name "GitHub yzq"')
           # 配置 git 邮箱
-          os.system(f'git config --global user.email "{os.environ["git_email"]}"')
+          os.system('git config --global user.email "yzq@github.com"')
           
           # 定义要下载的URL和文件名对的列表
-          download_pairs = [
+          download_pairs = [   Download_pairs = [
               (os.environ.get("url"), os.environ.get("filename")),
               #(os.environ.get("url_2"), os.environ.get("file_2")),
               #(os.environ.get("url_3"), os.environ.get("file_3")),

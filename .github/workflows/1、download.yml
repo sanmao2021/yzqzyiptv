@@ -29,12 +29,12 @@ jobs:
       - name: s1
         # 设置环境变量（从仓库secrets中读取）
         env:
-          url_1: ${{ secrets.url_1 }}
-          file_1: ${{ secrets.file_1 }}
-          url_2: ${{ secrets.url_2 }}
-          file_2: ${{ secrets.file_2 }}
-          url_3: ${{ secrets.url_3 }}
-          file_3: ${{ secrets.file_3 }}
+          url: ${{ secrets.url }}
+          filename: ${{ secrets.filename }}
+          #url2: ${{ secrets.url_2 }}
+          #file2: ${{ secrets.file_2 }}
+          #url3: ${{ secrets.url_3 }}
+          #file3: ${{ secrets.file_3 }}
           git_user: ${{ secrets.git_user }}
           git_email: ${{ secrets.git_email }}
           
@@ -54,9 +54,9 @@ jobs:
           
           # 定义要下载的URL和文件名对的列表
           download_pairs = [
-              (os.environ.get("url_1"), os.environ.get("file_1")),
-              (os.environ.get("url_2"), os.environ.get("file_2")),
-              (os.environ.get("url_3"), os.environ.get("file_3")),
+              (os.environ.get("url"), os.environ.get("filename")),
+              #(os.environ.get("url_2"), os.environ.get("file_2")),
+              #(os.environ.get("url_3"), os.environ.get("file_3")),
           ]
           
           # 循环遍历所有下载对

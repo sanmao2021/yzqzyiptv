@@ -35,8 +35,6 @@ jobs:
           file_2: ${{ secrets.file_2 }}
           url_3: ${{ secrets.url_3 }}
           file_3: ${{ secrets.file_3 }}
-          git_user: ${{ secrets.git_user }}
-          git_email: ${{ secrets.git_email }}
         # 使用 Python 作为 shell 执行脚本
         run: |
           # 导入必要的 Python 模块
@@ -61,9 +59,9 @@ jobs:
           m = f"LUT-{t.replace(' ', '').replace(':','')}"
           
           # 配置 git 用户名
-          os.system(f'git config --global user.name "{os.environ["git_user"]}"')
+          os.system('git config --global user.name "GitHub Actionsyzq"')
           # 配置 git 邮箱
-          os.system(f'git config --global user.email "{os.environ["git_email"]}"')
+          os.system('git config --global user.email "actionsyzq@github.com"')
           
           # 定义要下载的URL和文件名对的列表
           download_pairs = [

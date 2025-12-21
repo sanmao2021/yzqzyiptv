@@ -41,7 +41,18 @@ jobs:
           file_5: ${{ secrets.file_5 }}
           url_6: ${{ secrets.url_6 }}
           file_6: ${{ secrets.file_6 }}
-
+          url_7: ${{ secrets.url_7 }}
+          file_7: ${{ secrets.file_7 }}
+          url_8: ${{ secrets.url_8 }}
+          file_8: ${{ secrets.file_8 }}
+          url_9: ${{ secrets.url_9 }}
+          file_9: ${{ secrets.file_9 }}
+          url_10: ${{ secrets.url_10 }}
+          file_10: ${{ secrets.file_10 }}
+          url_11: ${{ secrets.url_11 }}
+          file_11: ${{ secrets.file_11 }}
+          url_12: ${{ secrets.url_12 }}
+          file_12: ${{ secrets.file_12 }}
 
 
 
@@ -83,6 +94,12 @@ jobs:
               (os.environ.get("url_4"), os.environ.get("file_4")),
               (os.environ.get("url_5"), os.environ.get("file_5")),
               (os.environ.get("url_6"), os.environ.get("file_6")),
+              (os.environ.get("url_7"), os.environ.get("file_7")),
+              (os.environ.get("url_8"), os.environ.get("file_8")),
+              (os.environ.get("url_9"), os.environ.get("file_9")),
+              (os.environ.get("url_10"), os.environ.get("file_10")),
+              (os.environ.get("url_11"), os.environ.get("file_11")),
+              (os.environ.get("url_12"), os.environ.get("file_12")),
           ]
           
           # 循环遍历所有下载对

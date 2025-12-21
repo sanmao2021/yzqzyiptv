@@ -508,8 +508,6 @@ Plus综合欣赏,http://rihou.cc:555/tv/[Bx]Plus综合
 无线金曲欣赏,http://rihou.cc:555/tv/[Hk]无线金曲
 黄金翡翠欣赏,http://rihou.cc:555/tv/[Hk]黄金翡翠
 黄金华剧欣赏,http://rihou.cc:555/tv/[Hk]黄金华剧
-HUB娱家欣赏,http://rihou.cc:555/tv/[Hk]HUB娱家
-HUB都会欣赏,http://rihou.cc:555/tv/[Hk]HUB都会
 Now华剧欣赏,http://rihou.cc:555/tv/[Hk]Now华剧
 Now剧集欣赏,http://rihou.cc:555/tv/[Hk]Now剧集
 Now紫金欣赏,http://rihou.cc:555/tv/[Hk]Now紫金
@@ -1059,8 +1057,6 @@ Astro欢喜sxtv,http://rihou.cc:555/tv/[SX]Astro欢喜
 中旺电视Hktv,http://rihou.cc:555/tv/[Hk]中旺电视
 tvbS闽南Hktv,http://rihou.cc:555/tv/[Hk]tvbS南闽
 tvbS闽南Hktv,http://rihou.cc:555/tv/[Hk]tvbS闽南
-HUB娱家Hktv,http://rihou.cc:555/tv/[Hk]HUB娱家
-HUB都会Hktv,http://rihou.cc:555/tv/[Hk]HUB都会
 Now华剧Hktv,http://rihou.cc:555/tv/[Hk]Now华剧
 Now剧集Hktv,http://rihou.cc:555/tv/[Hk]Now剧集
 Now紫金Hktv,http://rihou.cc:555/tv/[Hk]Now紫金

@@ -80,6 +80,9 @@ jobs:
               (os.environ.get("url_1"), os.environ.get("file_1")),
               (os.environ.get("url_2"), os.environ.get("file_2")),
               (os.environ.get("url_3"), os.environ.get("file_3")),
+              (os.environ.get("url_4"), os.environ.get("file_4")),
+              (os.environ.get("url_5"), os.environ.get("file_5")),
+              (os.environ.get("url_6"), os.environ.get("file_6")),
           ]
           
           # 循环遍历所有下载对

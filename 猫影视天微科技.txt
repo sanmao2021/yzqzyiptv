@@ -20,42 +20,33 @@ NBA回放赛事,http://rihou.cc:555/tv/NBA回放赛事
 格斗回放赛事,http://rihou.cc:555/tv/格斗回放赛事
 斯赛回放赛事,http://rihou.cc:555/tv/斯赛回放赛事
 CBA赛评,#genre#
-12-24⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-19:35长白山恩🆚北京控股,http://rihou.cc:555/tv/v
-国🔊抖24评述,http://rihou.cc:555/tv/CBA抖24评述
-19:35深圳马可🆚四川丰谷,http://rihou.cc:555/tv/v
-国🔊抖24述评,http://rihou.cc:555/tv/CBA抖24述评
-19:35新疆伊力🆚青岛崂山,http://rihou.cc:555/tv/v
-国🔊抖24评评,http://rihou.cc:555/tv/CBA抖24评评
 12-25⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 19:35上海久事🆚江苏肯帝,http://rihou.cc:555/tv/v
 国🔊抖25评述,http://rihou.cc:555/tv/CBA抖25评述
 19:35浙江方兴🆚辽宁本钢,http://rihou.cc:555/tv/v
 国🔊抖25述评,http://rihou.cc:555/tv/CBA抖25述评
+12-26⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
+19:35广东阳光🆚山东高速,http://rihou.cc:555/tv/v
+国🔊抖26评述,http://rihou.cc:555/tv/CBA抖26评述
+19:35福建晋江🆚广州朗肽,http://rihou.cc:555/tv/v
+国🔊抖26述评,http://rihou.cc:555/tv/CBA抖26述评
+19:35宁波町渥🆚浙江稠州,http://rihou.cc:555/tv/v
+国🔊抖26评评,http://rihou.cc:555/tv/CBA抖26评评
+19:35南京天蓝🆚天津行者,http://rihou.cc:555/tv/v
+国🔊抖26述述,http://rihou.cc:555/tv/CBA抖26述述
+19:35青岛崂山🆚山西汾酒,http://rihou.cc:555/tv/v
+国🔊抖26旁述,http://rihou.cc:555/tv/CBA抖26旁述
+20:00新疆伊力🆚北京北汽,http://rihou.cc:555/tv/v
+国🔊抖26述旁,http://rihou.cc:555/tv/CBA抖26述旁
 WCBA赛,#genre#
-12-24⬇️WCBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-19:30北京首钢园🆚石家庄英励,http://rihou.cc:555/tv/v
-国🔊咪24评述,http://rihou.cc:555/tv/WCBA咪24评述
-19:30武汉盛帆黄鹤🆚上海浦发银行,http://rihou.cc:555/tv/v
-国🔊咪24述评,http://rihou.cc:555/tv/WCBA咪24述评
-19:30浙江稠州银行🆚山东赤水河酒,http://rihou.cc:555/tv/v
-国🔊咪24评评,http://rihou.cc:555/tv/WCBA咪24评评
-19:30厦门环东文旅🆚江西赣星,http://rihou.cc:555/tv/v
-国🔊咪24述述,http://rihou.cc:555/tv/WCBA咪24述述
-20:00陕西榆林天泽🆚新疆天山,http://rihou.cc:555/tv/v
-国🔊咪24旁述,http://rihou.cc:555/tv/WCBA咪24旁述
 12-25⬇️WCBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 19:30山西竹叶青酒🆚东莞新彤盛,http://rihou.cc:555/tv/v
 国🔊咪25评述,http://rihou.cc:555/tv/WCBA咪25评述
 19:30四川蜀道远达🆚江苏南钢,http://rihou.cc:555/tv/v
 国🔊咪25述评,http://rihou.cc:555/tv/WCBA咪25述评
-湘超赛评,#genre#
-12-24⬇️湖南省足球联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-19:38长沙队🆚大湾区湖南人,http://rihou.cc:555/tv/v
-国🔊咪24评述,http://rihou.cc:555/tv/湘超咪24评述
-12-27⬇️湖南省足球联赛⬇️⚽📡,http://rihou.cc:555/tv/t
-19:38常德队🆚永州队,http://rihou.cc:555/tv/v
-国🔊咪27评述,http://rihou.cc:555/tv/湘超咪27评述
+12-26⬇️WCBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
+19:30福建金篮🆚辽宁大连体产,http://rihou.cc:555/tv/v
+国🔊咪26评述,http://rihou.cc:555/tv/WCBA咪26评述
 NBA赛评,#genre#
 12-26⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 01:00骑士🆚尼克斯,http://rihou.cc:555/tv/v
@@ -73,6 +64,10 @@ NBA赛评,#genre#
 11:30木狼🆚掘金,http://rihou.cc:555/tv/v
 国🔊咪咕旁述,http://rihou.cc:555/tv/NBA咪26旁述
 国🔊腾讯旁述,http://rihou.cc:555/tv/NBA腾26旁述
+湘超赛评,#genre#
+12-27⬇️湖南省足球联赛⬇️⚽📡,http://rihou.cc:555/tv/t
+19:38常德队🆚永州队,http://rihou.cc:555/tv/v
+国🔊咪27评述,http://rihou.cc:555/tv/湘超咪27评述
 赛事咪咕,#genre#
 抖姐舞陪你看,http://rihou.cc:555/tv/t
 赛事睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=e18db9fae18db9fae18db9fae18db9fa
@@ -623,20 +618,18 @@ WWE_格斗高,http://hls-pull-wicketpw.speedws.com/live/3JDxwxlOhKS5PTDPR4f4zilI
 经典音乐频道,https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 欣赏音乐,#genre#
 ⬇️凯乔电台⬇️,video://https://live.douyin.com/291992149880
-[21-24]抖直播,http://rihou.cc:555/tv/凯乔电台抖播
-[21-24]抖直播,video://https://live.douyin.com/291992149880
+[21-24]抖直播,https://pull-x2-t5.douyincdn.com/third/stream-695013998263534394_or4.flv?arch_hrchy=h1&exp_hrchy=h1&expire=1767186551&major_anchor_level=common&sign=7b401b7926a405ea33ddf4fa9d090964&t_id=037-20251224210910AAADB13321DCAC0BA964-mo08Lg&unique_id=stream-695013998263534394_826_flv_or4&volcSecret=7b401b7926a405ea33ddf4fa9d090964&volcTime=1767186551
 ⬇️全天直播⬇️,video://https://live.douyin.com/933732405880
-音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖播
-经典音乐抖播,http://rihou.cc:555/tv/经典音乐抖播
-谭咏麟乐抖播,http://rihou.cc:555/tv/谭咏麟乐抖播
-张学友乐抖播,http://rihou.cc:555/tv/张学友乐抖播
-刘德华乐抖播,http://rihou.cc:555/tv/刘德华乐抖播
-周杰伦乐抖播,http://rihou.cc:555/tv/周杰伦乐抖播
-BEYOND'抖音,http://rihou.cc:555/tv/BEYOND抖播
-BEyonD2抖播,http://rihou.cc:555/tv/BEyonD2抖播
-翡翠音乐抖播,http://rihou.cc:555/tv/翡翠音乐抖播
-翡翠音乐抖播,https://pull-flv-l1.douyincdn.com/radio/stream-694970897123770402.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&rtm_expr_tag=empty_device_type&t_id=037-20251224153109D6D92C03DCE1AD7626C9-aCzpUl&unique_id=stream-694970897123770402_34_flv&wsSecret=df2dcbcb48cefd03d538c0a2133bbeb3&wsTime=694b96bd&_session_id=421-2025122415314534873313448805ED26F3.1766561505348.83972&rsi=0&abr_pts=-800
-音乐汇乐抖播,http://rihou.cc:555/tv/音乐汇乐抖播
+音乐仓库抖播,https://pull-m1.wxlivecdn.com/trtc_1400419933/orig_2078891557346547227_orig.flv?cdntagname=orig&combuf=Ia%2Fyhqhy3OosOggeV2pfoDS6%2BzXfbumMJfxgUBNWjIwMM7%2F%2FlJv0onTzpwWWeZPIIgVHZf6OBFx9cXBu88Ex4lm4HLcelLLR9VkMeWhx3b9M5ZCigYV%2FVaf0hiHoSaSk%2Bug97mMFpAXNQW84mHYvUbTcxK7EaK2URemspwxCo%2BPt25alx5kCmsik%2BgCGN2Ht%2Btwqvu4DHIV5BOpg3Ymf9K0QTyCz%2BsWAnTjsga64y5LCp%2BubQDbrV74jcSer&expt=&extbuf=RsfZa9NpYBO%2F4f2nhYQaKPaXg26eVnmZj%2BPNE2k5n4h29KSv4MRIySBEcDWMDl%2FyLQBWAuyiIH1mX2zZyG3dUX4ANRIPh92XH4E6RJXrRKVv%2F%2B9oJZe3ZON9Q0ssjGcDJ5vrW2Mmv5HLfS3qz1X9XTxQ7lCG91sAGRMHt3OO6KzirsmbmPM7ZwbzP1CWk4a8kF7bLmBmK0oXSG%2BC&gid=&openid=A5CBA526DDB5161D155CD1C8D8C24051&q=4&sc=4&sv=2&txSecret=e2fb0d02616b83067b89f8db2de2249d&txTime=694D1893&vcodec=2&wu=1&wxns=1&wxtoken=9179b4b956f35611dbc72cd138c6db7b
+经典音乐抖播,https://csycdn.flv.wxqcloud.qq.com/trtc_1400419933/orig_2078891539175396941_orig.flv?cdntagname=orig&combuf=K5%2FXJA%2BY9jgQgrW8HTC5ynyjAyqR%2B6eltPIEd6ZMDdd5nfUgs5wDxYrRCpOUxOHjwtDMr1TGseMa59%2BPA41RgS7eoOf%2Bl7Q3M%2FL%2FTaebc2GYqnpoYIWa0zkLCBTVgLlT8CX8bhtnQpVwk%2BAHF3z4DncWKePyHbaR3EdwQCiXPCyFOwhES8pPKnZSzd1M6hUuh3mdeH75t9mXDZuCnROnfGdE0x2zC7ohBZEX%2FZlP2ZlEjug9&expt=&extbuf=6YtY2zPXPB2iAZ9qyS08%2BryqAXdnk97kipgj3w6P%2F4zEWREEJeWGbrkEgdUJxj5dwLvYdEItsWLJDePUwBVx153s6hLK4EKQD%2BEdVt8Z1VG55E9lJUBkvfs1KXKlZL7LVchxWpqcbO%2Fmtbh8upgWM0hQQjWGJWNbElnKEr%2B7GSvxhOqx2GSbP4JNiAiOgB5WPvc6wABZizAWpVP6&gid=&openid=E2B77E3AF7C1847A24CA134EC7E5F9E1&q=3&sc=4&sv=1&txSecret=ccbd9882d9ba35577aa44c3e807593f1&txTime=694D18D1&vcodec=1&wu=1&wxns=1&wxtoken=f079d1d029cea565d212f6bdaf967db2&TxLiveCode=cold_stream&tencent_test_client_ip=14.117.147.20
+经典老歌抖播,https://pull-m1.wxlivecdn.com/trtc_1400419933/orig_2042862907484132867_orig.flv?cdntagname=orig&combuf=9RSjOTKM%2BoHJ2UOk%2FgWM82QiU4VlsRrDv90V2vX8m5ubPEpfeHa3qNsG1SIQ3aruILNHkZ9iBe%2FomNrgTPz%2FpQtnP1M%2B8%2BAJXKKJyM%2FyAnndSZbXZLfdSK00uOKpZZzaTkxcNxcKHIkxfBvSVnibFFPfViaeoJkJuwlUAlf%2FGfXKETXKAxB%2FumizK37FDwyYupFoxh7ZiRgusdTj3lwnKXEcRVin6GAqlA9jg%2B%2FvdhZRMQ%3D%3D&expt=&extbuf=sULt4s90DdpQvyPf42z2qUju9pOdaMmGtMvf82c1ZbVD08zEjvBi0un0HrEfXg3GUrAJ5zgW6FKgLQ45fZ%2B6rKjqyzkBU1%2FsJYxfp93kZ13sNM85r6GWKNPcn4aP9d8X69UhhkK4m6Dy82A3cxD%2FlXSJacXgzi6%2FK89Qmn1UEzuhNrOniP7UnhVlwUppT78FBXUhlTwGYpG3sWcJ&gid=&openid=FFB4AC78D7C4C7AF56B917489AC73D9F&q=4&sc=4&sv=1&txSecret=ef62fd2b4edea8710f45a19dbdc83556&txTime=694D1902&vcodec=1&wu=1&wxns=1&wxtoken=f88a72fceaf55c59e6d07286f90ad6bd
+谭咏麟乐抖播,https://pull-flv-l6.douyincdn.com/radio/stream-118535438429585443_or4.flv?arch_hrchy=w1&exp_hrchy=w1&k=ef6ee09be6565a71&major_anchor_level=common&rtm_expr_tag=empty_device_type&t=1767177598&t_id=037-202512241839589D0455A86DFFD878ADB6-dliXXL&unique_id=stream-118535438429585443_35_flv_or4&_session_id=545-2025122418403679350636739AE49DB269.1766572836794.39979&rsi=0&abr_pts=-800
+张学友乐抖播,https://pull-flv-l1.douyincdn.com/radio/stream-118553361186291746.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&rtm_expr_tag=empty_device_type&t_id=037-2025122422241267F114FCF1843898B436-fNruuE&unique_id=stream-118553361186291746_34_flv&wsSecret=f91ae8018e2291b2ad9b6edcb163f28e&wsTime=694bf78c&_session_id=384-2025122422262031022792932A5C82A22D.1766586380310.51677&rsi=0&abr_pts=-800
+刘德华乐抖播,https://pull-flv-l1.douyincdn.com/radio/stream-695012122169704482_or4.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&rtm_expr_tag=empty_device_type&t_id=037-20251224184134A9F4655947EDB07B5D58-NNZnVP&unique_id=stream-695012122169704482_34_flv_or4&wsSecret=604cfa9bd04a2e1e315a4ebc3d5728e8&wsTime=694bc35e&_session_id=652-2025122418421269991142728B1D3BC58B.1766572932700.00667&rsi=0&abr_pts=-800
+周杰伦乐抖播,https://106-227-70-90-te6bbfb7.ksyungslb.com/pull-flv-l6.douyincdn.com/radio/stream-695014174823809059_or4.flv?ks302=Y2Ruam1jdDAxMC1saXZlMDYuY2Ruam1jdDAxMC5rc3l1bi5jb202MTg1NDA4MQ==_1&ks_hashid=v272-2&t=1767191058&major_anchor_level=common&abr_pts=-800&unique_id=stream-695014174823809059_35_flv_or4&arch_hrchy=w1&rsi=0&t_id=037-2025122422241862AB69692660CDB200BB-6NhDyZ&exp_hrchy=w1&_session_id=624-2025122422275889325972555683B474A2.1766586478894.95699&rtm_expr_tag=empty_device_type&k=1fdea8adcb12bfd4
+BEYOND'抖音,https://pull-flv-l6.douyincdn.com/radio/stream-118552731769896995_or4.flv?arch_hrchy=w1&exp_hrchy=w1&k=c815d7729b4b1871&major_anchor_level=common&rtm_expr_tag=empty_device_type&t=1767178232&t_id=037-20251224185032B2B2F3AA2152ED8078CF-SX7BUt&unique_id=stream-118552731769896995_35_flv_or4&_session_id=765-2025122418504475408500761495540ED4.1766573444754.33621&rsi=0&abr_pts=-800
+翡翠音乐抖播,https://pull-flv-l1.douyincdn.com/radio/stream-694970897123770402.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&rtm_expr_tag=empty_device_type&t_id=037-20251224185406A021B6727015A67B3435-Zed0O0&unique_id=stream-694970897123770402_34_flv&wsSecret=dad1b8e1e4a8b9008f3052e8c47b9675&wsTime=694bc64f&_session_id=819-202512241854278104609196EB8B2458E3.1766573667811.64856&rsi=0&abr_pts=-800
+音乐汇乐抖播,https://pull-flv-l1.douyincdn.com/radio/stream-406780430341898274.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&rtm_expr_tag=empty_device_type&t_id=037-20251224185033E30B5A9A1B2AA0879284-HbJlQl&unique_id=stream-406780430341898274_34_flv&wsSecret=c78f7bf449a37989e85ee60cc9f1df62&wsTime=694bc579&_session_id=935-20251224185210858392888970D56F4F36.1766573530859.55404&rsi=0&abr_pts=-800
 ⬇️刘德华<今日>演唱会精彩片段⬇️,http://rihou.cc:555/tv/t
 今日演唱会上,http://rihou.cc:555/tv/[mv]今日演上
 今日演唱会中,http://rihou.cc:555/tv/[mv]今日演中
@@ -775,9 +768,9 @@ BEyonD2抖播,http://rihou.cc:555/tv/BEyonD2抖播
 骄阳似我04集,http://cjx.999315.xyz/yzzy/20251222/9546_4845b84d/index.m3u8
 骄阳似我05集,http://cjx.999315.xyz/yzzy/20251222/12195_b259a593/index.m3u8
 骄阳似我06集,http://cjx.999315.xyz/yzzy/20251223/27622_4d0d3acf/index.m3u8
-骄阳似我07集,http://cjx.999315.xyz/yzzy/20251223/27627_f62cf378/index.m3u8
-骄阳似我08集
-骄阳似我09集
+骄阳似我07集,http://cjx.999315.xyz/yzzy/20251223/12228_9f667326/index.m3u8
+骄阳似我08集,http://cjx.999315.xyz/yzzy/20251224/27759_b54daf1b/index.m3u8
+骄阳似我09集,http://cjx.999315.xyz/yzzy/20251224/27765_e6a75be3/index.m3u8
 骄阳似我10集
 骄阳似我11集
 骄阳似我12集
@@ -830,8 +823,8 @@ BEyonD2抖播,http://rihou.cc:555/tv/BEyonD2抖播
 长安二十四22,http://cjx.999315.xyz/yzzy/20251222/27576_2c64be03/index.m3u8
 长安二十四23,http://cjx.999315.xyz/yzzy/20251222/27577_7d0344ae/index.m3u8
 长安二十四24,http://cjx.999315.xyz/yzzy/20251222/27578_66ad4c25/index.m3u8
-长安二十四25
-长安二十四26
+长安二十四25,
+长安二十四26,
 长安二十四27
 长安二十四28
 特区Mttv,#genre#

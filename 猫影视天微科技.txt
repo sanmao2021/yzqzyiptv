@@ -8,34 +8,16 @@
 ➡️分享更新⬅️,http://rihou.cc:555/tv/[mv]分享更新
 ➡️爱扒随便⬅️,http://rihou.cc:555/tv/[mv]爱扒随便
 ➡️不必纠结⬅️,http://rihou.cc:555/tv/[mv]不必纠结
-赛事精锦,#genre#
-⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
-联赛赛事回放,http://rihou.cc:555/tv/联赛赛事回放
-NBA赛事回放,http://rihou.cc:555/tv/NBA赛事回放
-羽球赛事回放,http://rihou.cc:555/tv/羽球赛事回放
-橄球赛事回放,http://rihou.cc:555/tv/橄球赛事回放
-乒球赛事回放,http://rihou.cc:555/tv/乒球赛事回放
-网球赛事回放,http://rihou.cc:555/tv/网球赛事回放
-排球赛事回放,http://rihou.cc:555/tv/排球赛事回放
-格斗赛事回放,http://rihou.cc:555/tv/格斗赛事回放
-斯赛赛事回放,http://rihou.cc:555/tv/斯赛赛事回放
 NBA赛评,#genre#
 12-26⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-01:00骑士🆚尼克斯,http://rihou.cc:555/tv/v
-国🔊咪播评述,http://rihou.cc:555/tv/26NBA咪评述
-国🔊腾播评述,http://rihou.cc:555/tv/26NBA腾评述
-03:30马刺🆚雷霆,http://rihou.cc:555/tv/v
-国🔊咪播述评,http://rihou.cc:555/tv/26NBA咪述评
-国🔊腾播述评,http://rihou.cc:555/tv/26NBA腾述评
-06:00勇士🆚独行侠,http://rihou.cc:555/tv/v
-国🔊咪播评评,http://rihou.cc:555/tv/26NBA咪评评
-国🔊腾播评评,http://rihou.cc:555/tv/26NBA腾评评
 09:00火箭🆚湖人,http://rihou.cc:555/tv/v
 国🔊咪播述述,http://rihou.cc:555/tv/26NBA咪述述
 国🔊腾播述述,http://rihou.cc:555/tv/26NBA腾述述
+国🔊腾播杨毅,https://txycdn4.video.qq.com/1777012723.m3u8?time=1766709930&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgICa7kS5c7gV1BrK94iQ2pcTnSberD-SSzkyroF1_A-IzEPXCXRedua-AXk31ksHAv3UBcPkCODDnHj1CJjtx4cfV8cM2ka47SfzSYElHBX5j74ke1M2zJm9mvFII7xy3b5QBb2LSIHzA39SdkRL0uidap4EEJ4a-Ar3gyDuIr0LVlfp6Rb6Bv0-K_S8-nBvEfrJ866c3bzFYbjDpQzEIyhx4poGN9OYvYAE05pUpNbgZ5imTg4inxPn5e7bWrDV9Z61b7folQSsp9AsSBOboZ0NcEva7LI0hanmUmAFjj0UuCFO7vKsB0vqjBQg8YPS15_1U1_P7lg1FovM0FW9u7YkQ5204mUNqngdHqtBxrKWH2VgECwO67BGm59xc-YL1c5OpBticOCGzV5-V2dgO1MScJfiGXZuFrAv979tT78fxtLbXF3-Z094X9qkEzOZR_UXaJSGFw7OeHSEys63F3VW1RHIcYsA3yHjLu0av5a7gLQb8oZmQGSrClHk1SlzEUFDUOCyoIJunKHYRjshoRgH2WCwzogl6PE9acZ1oWqucA2Yz&drmtype=0
 11:30木狼🆚掘金,http://rihou.cc:555/tv/v
 国🔊咪播旁述,http://rihou.cc:555/tv/26NBA咪旁述
 国🔊腾播旁述,http://rihou.cc:555/tv/26NBA腾旁述
+国🔊腾播段冉
 CBA赛评,#genre#
 12-26⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 19:35广东阳光🆚山东高速,http://rihou.cc:555/tv/v
@@ -58,6 +40,17 @@ WCBA赛,#genre#
 12-26⬇️WCBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 19:30福建金篮🆚辽宁大连体产,http://rihou.cc:555/tv/v
 国🔊咪播评述,http://rihou.cc:555/tv/26WCBA咪评述
+赛事精锦,#genre#
+⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
+联赛赛事回放,http://rihou.cc:555/tv/联赛赛事回放
+NBA赛事回放,http://rihou.cc:555/tv/NBA赛事回放
+羽球赛事回放,http://rihou.cc:555/tv/羽球赛事回放
+橄球赛事回放,http://rihou.cc:555/tv/橄球赛事回放
+乒球赛事回放,http://rihou.cc:555/tv/乒球赛事回放
+网球赛事回放,http://rihou.cc:555/tv/网球赛事回放
+排球赛事回放,http://rihou.cc:555/tv/排球赛事回放
+格斗赛事回放,http://rihou.cc:555/tv/格斗赛事回放
+斯赛赛事回放,http://rihou.cc:555/tv/斯赛赛事回放
 赛事咪咕,#genre#
 抖姐舞陪你看,http://rihou.cc:555/tv/t
 赛事睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=3c909fbd3c909fbd3c909fbd3c909fbd
@@ -610,15 +603,14 @@ WWE_格斗高,http://hls-pull-wicketpw.speedws.com/live/3JDxwxlOhKPG8gzPR4f4zilI
 ⬇️凯乔电台⬇️,video://https://live.douyin.com/291992149880
 [21-24]抖直播,http://rihou.cc:555/tv/抖播凯乔电台
 ⬇️全天直播⬇️,video://https://live.douyin.com/933732405880
-经典粤歌抖播,https://pull-m1.wxlivecdn.com/trtc_1400419933/orig_2042863310080410913_orig.flv?cdntagname=orig&combuf=Dfv6GbysoOYmNcD4Q9bW2uPCpcZCPyZeiD5JOiHIAosHxLRLRPntUYEP64Eqt9w87AZvYbVq%2FZoAqgPxm9FcdH6J4bKDUQPCN4j2FQYvOTDcKmv9Oz%2BRroUQL%2BcoVTOZ2Wo8UXdyWgqJdwWv3sRNPgJmC23xeTb0tgOb5qJdRAJ1Rs2r1GNZCCGBAcu5sjcZyqZJ7digMYDViUjtK7i6udoP2QEwwhBDyFKFfw%3D%3D&expt=&extbuf=0cDAeAgP5EnIrAzVVX7NoMSFNGhwYk4MoQCfyhWulN2vwTkO22o6SEyHo8hwQ0Nh7B%2F2uL5j4q7XHSy4H5UsrvHnfCAHT99sG%2BDHhUPiSBmcMLFfLLUJlt5kerYFqUSo5dc90%2Fywv8P%2FelTWsCBF%2FWbwDx%2F0HrHCCSoJN0vs6acyA173LJ3KFEVxOavMt9m0VtLh9Bczlzj78QE7&gid=&openid=72C6CC901AAA7D0AB5499717B26EFE86&q=4&sc=4&sv=2&txSecret=d792f8cf68f63fd3511a891221fa19f8&txTime=694EAA35&vcodec=2&wu=1&wxns=1&wxtoken=53ac0f0a25d3c0a26bba7706efb03799
-谭咏麟乐抖播,https://pull-flv-l1.douyincdn.com/radio/stream-118554242991259682_or4.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&rtm_expr_tag=empty_device_type&t_id=037-202512252318546AECDA5AFF8736F40AA9-lRnvD5&unique_id=stream-118554242991259682_34_flv_or4&wsSecret=2dd5b1498cd7dd61eaca8524159b6b80&wsTime=694d55de&_session_id=675-202512252321107519970357C2FE9E6916.1766676070752.82353&rsi=0&abr_pts=-800
-张学友乐抖播,https://106-227-71-57-tee6f507.ksyungslb.com/pull-flv-l6.douyincdn.com/radio/stream-118559315017596963.flv?ks302=Y2Ruam1jdDAyMC1jYWNoZWxpdmUwMi5jZG5qbWN0MDIwLmtzeXVuLmNvbTEwNDE1MDY3MTc5_1&ks_hashid=v272-2_nbct02&t=1767280609&major_anchor_level=common&abr_pts=-800&unique_id=stream-118559315017596963_35_flv&arch_hrchy=w1&rsi=0&t_id=037-202512252316494DB93C112AE017F50A98-kPnCUu&exp_hrchy=w1&_session_id=563-202512252316579641185385B8279E3438.1766675817964.18827&rtm_expr_tag=empty_device_type&k=1595da867a6a6ea5
-刘德华乐抖播,https://pull-flv-l1.douyincdn.com/radio/stream-695020282599702562_or4.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&rtm_expr_tag=empty_device_type&t_id=037-2025122523231384855E92037A61037474-5l20FN&unique_id=stream-695020282599702562_34_flv_or4&wsSecret=6d8cdbc1e547259ed59bb55dd22dfa5b&wsTime=694d56e2&_session_id=232-202512252324242256513535C56BA7A27A.1766676264226.80312&rsi=0&abr_pts=-800
-周杰伦乐抖播,https://106-227-70-91-teb721d9.ksyungslb.com/pull-flv-l6.douyincdn.com/radio/stream-695014174823809059_or4.flv?ks302=Y2Ruam1jdDAyMC1jYWNoZWxpdmUwMS5jZG5qbWN0MDIwLmtzeXVuLmNvbTI5NzczNzQ2NzA=_1&ks_hashid=v272-2&t=1767281004&major_anchor_level=common&abr_pts=-800&unique_id=stream-695014174823809059_35_flv_or4&arch_hrchy=w1&rsi=0&t_id=037-20251225232324DE623C76F175502CDED0-jF7J65&exp_hrchy=w1&_session_id=798-20251225232527930658736356500BDFD7.1766676327930.60456&rtm_expr_tag=empty_device_type&k=573800c336f9f7f7
-BEYOND'抖播,https://119-101-148-225-tef42055.ksyungslb.com/pull-flv-l6.douyincdn.com/radio/stream-695019492204347427_or4.flv?ks302=Y2Ruam1jdDAyMC1jYWNoZWxpdmUwOC5jZG5qbWN0MDIwLmtzeXVuLmNvbTEwNDY1OTQxNjA2_1&ks_hashid=v272-2&t=1767280745&major_anchor_level=common&abr_pts=-800&unique_id=stream-695019492204347427_35_flv_or4&arch_hrchy=w1&rsi=0&t_id=037-202512252319056D289A22003D8AFB8BAB-CVlS0V&exp_hrchy=w1&_session_id=656-2025122523192953533565151436C1E7EE.1766675969535.52683&rtm_expr_tag=empty_device_type&k=4cf4fb6f6bd94597
-BEyonD2抖播,https://111-123-58-219-tea39fa9.ksyungslb.com/pull-flv-l6.douyincdn.com/radio/stream-695019492204347427_or4.flv?ks302=Y2Ruam1jdDAyMC1jYWNoZWxpdmUwMy5jZG5qbWN0MDIwLmtzeXVuLmNvbTEwNDU2Mjk3MzM0_1&ks_hashid=v272-2&t=1767279093&_session_id=037-2025122522513384539049E90ED2210BDD-9QZnHm.1766674342090.18606&abr_pts=-800&unique_id=stream-695019492204347427_35_flv_or4&arch_hrchy=w1&t_id=037-2025122522513384539049E90ED2210BDD-9QZnHm&exp_hrchy=w1&rsi=1&k=aa20ca4a0cb466c8&major_anchor_level=common
-翡翠音乐抖播,https://pull-flv-l6.douyincdn.com/radio/stream-695015135080874019.flv?arch_hrchy=w1&exp_hrchy=w1&k=d9e49bdee2e722b4&major_anchor_level=common&rtm_expr_tag=empty_device_type&t=1767281004&t_id=037-202512252323246D5D5ADE0F0A60F140B5-cKU2T4&unique_id=stream-695015135080874019_35_flv&_session_id=833-202512252326574745967198ED78DEDACA.1766676417475.93199&rsi=0&abr_pts=-800
-音乐汇乐抖播,https://pull-flv-l1.douyincdn.com/radio/stream-406780430341898274.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&rtm_expr_tag=empty_device_type&t_id=037-20251225232325BA9B0C2A3A0623098774-VrCatB&unique_id=stream-406780430341898274_34_flv&wsSecret=78a6a36966f69c8e8205b63daa22fda8&wsTime=694d56ed&_session_id=895-202512252328038635463515A89E45EEB8.1766676483864.09602&rsi=0&abr_pts=-800
+经典粤歌抖播,http://rihou.cc:555/tv/经典粤歌抖播
+谭咏麟乐抖播,http://rihou.cc:555/tv/谭咏麟乐抖播
+张学友乐抖播,http://rihou.cc:555/tv/张学友乐抖播
+刘德华乐抖播,http://rihou.cc:555/tv/刘德华乐抖播
+周杰伦乐抖播,http://rihou.cc:555/tv/周杰伦乐抖播
+BEYOND'抖播,http://rihou.cc:555/tv/BEYOND抖播
+翡翠音乐抖播,http://rihou.cc:555/tv/翡翠音乐抖播
+音乐汇乐抖播,http://rihou.cc:555/tv/音乐汇乐抖播
 ⬇️刘德华<今日>演唱会精彩片段⬇️,http://rihou.cc:555/tv/t
 今日演唱会上,http://rihou.cc:555/tv/[mv]今日演上
 今日演唱会中,http://rihou.cc:555/tv/[mv]今日演中
@@ -747,7 +739,7 @@ BEyonD2抖播,https://111-123-58-219-tea39fa9.ksyungslb.com/pull-flv-l6.douyincd
 经典Dj嗨歌08,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8e215ade7dc860103700199b330ed3a_258.mp4
 经典Dj嗨歌09,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8e884a6e896c30103700199cc4951c3_258.mp4
 邓紫棋香港站,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8c02b2307ec2801037001992eb2cbfb_258.mp4
-爆改版看预谋,https://suo.yt/NuG5dOh
+爆改版看预谋,http://rihou.cc:555/tv/爆改版看预谋
 <我的好兄弟>,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8c171e907fbe0010370019933a69c19_258.mp4
 新剧追更,#genre#
 ⬇️骄阳似我36⬇️,http://rihou.cc:555/tv/v
@@ -787,35 +779,6 @@ BEyonD2抖播,https://111-123-58-219-tea39fa9.ksyungslb.com/pull-flv-l6.douyincd
 骄阳似我34集
 骄阳似我35集
 骄阳似我36集
-⬇️长安二十四计28⬇️,http://rihou.cc:555/tv/v
-长安二十四01,http://cjx.999315.xyz/yzzy/20251212/26612_2ebb3462/index.m3u8
-长安二十四02,http://cjx.999315.xyz/yzzy/20251212/8753_48c8c396/index.m3u8
-长安二十四03,http://cjx.999315.xyz/yzzy/20251212/8754_fa733611/index.m3u8
-长安二十四04,http://cjx.999315.xyz/yzzy/20251212/1939_f22e4747/index.m3u8
-长安二十四05,http://cjx.999315.xyz/yzzy/20251213/1981_b3b4d2db/index.m3u8
-长安二十四06,http://cjx.999315.xyz/yzzy/20251213/1981_b3b4d2db/index.m3u8
-长安二十四07,http://cjx.999315.xyz/yzzy/20251214/2043_d79c6256/index.m3u8
-长安二十四08,http://cjx.999315.xyz/yzzy/20251214/2044_d8330f85/index.m3u8
-长安二十四09,http://cjx.999315.xyz/yzzy/20251215/9006_831da40e/index.m3u8
-长安二十四10,http://cjx.999315.xyz/yzzy/20251215/9006_831da40e/index.m3u8
-长安二十四11,http://cjx.999315.xyz/yzzy/20251216/27140_03fbe3c1/index.m3u8
-长安二十四12,http://cjx.999315.xyz/yzzy/20251216/27141_ab0e8f1a/index.m3u8
-长安二十四13,http://cjx.999315.xyz/yzzy/20251217/2345_81b073de/index.m3u8
-长安二十四14,http://cjx.999315.xyz/yzzy/20251217/11826_0758c993/index.m3u8
-长安二十四15,http://cjx.999315.xyz/yzzy/20251217/2345_81b073de/index.m3u8
-长安二十四16,http://cjx.999315.xyz/yzzy/20251217/11826_0758c993/index.m3u8
-长安二十四17,http://cjx.999315.xyz/yzzy/20251219/11896_7818e42b/index.m3u8
-长安二十四18,http://cjx.999315.xyz/yzzy/20251219/27252_71d1f887/index.m3u8
-长安二十四19,http://cjx.999315.xyz/yzzy/20251220/2698_fb4ab556/index.m3u8
-长安二十四20,http://cjx.999315.xyz/yzzy/20251220/27370_6d55a62e/index.m3u8
-长安二十四21,http://cjx.999315.xyz/yzzy/20251221/12000_831bb3dd/index.m3u8
-长安二十四22,http://cjx.999315.xyz/yzzy/20251222/27576_2c64be03/index.m3u8
-长安二十四23,http://cjx.999315.xyz/yzzy/20251222/27577_7d0344ae/index.m3u8
-长安二十四24,http://cjx.999315.xyz/yzzy/20251222/27578_66ad4c25/index.m3u8
-长安二十四25,http://cjx.999315.xyz/yzzy/20251225/9605_217dade2/index.m3u8
-长安二十四26,http://cjx.999315.xyz/yzzy/20251225/9606_13816390/index.m3u8
-长安二十四27,http://cjx.999315.xyz/yzzy/20251225/9604_30235b7b/index.m3u8
-长安二十四28,http://cjx.999315.xyz/yzzy/20251225/9607_b0da9d8d/index.m3u8
 特区Mttv,#genre#
 有线新闻Mttv,http://rihou.cc:555/tv/[Mt]有线新闻
 无线新闻Mttv,http://rihou.cc:555/tv/[Mt]无线新闻
@@ -2160,6 +2123,35 @@ Q版-三国剧集,http://cfss.cc/cdn/hy/29465871.m3u8
 料理小当家集,http://lxajh.top/tv/douyu.php?id=8231658
 柯南剧场版集,http://lxajh.top/tv/douyu.php?id=6484910
 追剧全集,#genre#
+⬇️长安二十四计28⬇️,http://rihou.cc:555/tv/v
+长安二十四01,http://cjx.999315.xyz/yzzy/20251212/26612_2ebb3462/index.m3u8
+长安二十四02,http://cjx.999315.xyz/yzzy/20251212/8753_48c8c396/index.m3u8
+长安二十四03,http://cjx.999315.xyz/yzzy/20251212/8754_fa733611/index.m3u8
+长安二十四04,http://cjx.999315.xyz/yzzy/20251212/1939_f22e4747/index.m3u8
+长安二十四05,http://cjx.999315.xyz/yzzy/20251213/1981_b3b4d2db/index.m3u8
+长安二十四06,http://cjx.999315.xyz/yzzy/20251213/1981_b3b4d2db/index.m3u8
+长安二十四07,http://cjx.999315.xyz/yzzy/20251214/2043_d79c6256/index.m3u8
+长安二十四08,http://cjx.999315.xyz/yzzy/20251214/2044_d8330f85/index.m3u8
+长安二十四09,http://cjx.999315.xyz/yzzy/20251215/9006_831da40e/index.m3u8
+长安二十四10,http://cjx.999315.xyz/yzzy/20251215/9006_831da40e/index.m3u8
+长安二十四11,http://cjx.999315.xyz/yzzy/20251216/27140_03fbe3c1/index.m3u8
+长安二十四12,http://cjx.999315.xyz/yzzy/20251216/27141_ab0e8f1a/index.m3u8
+长安二十四13,http://cjx.999315.xyz/yzzy/20251217/2345_81b073de/index.m3u8
+长安二十四14,http://cjx.999315.xyz/yzzy/20251217/11826_0758c993/index.m3u8
+长安二十四15,http://cjx.999315.xyz/yzzy/20251217/2345_81b073de/index.m3u8
+长安二十四16,http://cjx.999315.xyz/yzzy/20251217/11826_0758c993/index.m3u8
+长安二十四17,http://cjx.999315.xyz/yzzy/20251219/11896_7818e42b/index.m3u8
+长安二十四18,http://cjx.999315.xyz/yzzy/20251219/27252_71d1f887/index.m3u8
+长安二十四19,http://cjx.999315.xyz/yzzy/20251220/2698_fb4ab556/index.m3u8
+长安二十四20,http://cjx.999315.xyz/yzzy/20251220/27370_6d55a62e/index.m3u8
+长安二十四21,http://cjx.999315.xyz/yzzy/20251221/12000_831bb3dd/index.m3u8
+长安二十四22,http://cjx.999315.xyz/yzzy/20251222/27576_2c64be03/index.m3u8
+长安二十四23,http://cjx.999315.xyz/yzzy/20251222/27577_7d0344ae/index.m3u8
+长安二十四24,http://cjx.999315.xyz/yzzy/20251222/27578_66ad4c25/index.m3u8
+长安二十四25,http://cjx.999315.xyz/yzzy/20251225/9605_217dade2/index.m3u8
+长安二十四26,http://cjx.999315.xyz/yzzy/20251225/9606_13816390/index.m3u8
+长安二十四27,http://cjx.999315.xyz/yzzy/20251225/9604_30235b7b/index.m3u8
+长安二十四28,http://cjx.999315.xyz/yzzy/20251225/9607_b0da9d8d/index.m3u8
 ⬇️双轨29⬇️,http://rihou.cc:555/tv/v
 双轨之第01集,http://cjx.999315.xyz/yzzy/20251212/8755_c6663e68/index.m3u8
 双轨之第02集,http://cjx.999315.xyz/yzzy/20251212/8756_62d90d22/index.m3u8

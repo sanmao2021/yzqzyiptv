@@ -8,17 +8,18 @@
 ➡️分享更新⬅️,http://rihou.cc:555/tv/[mv]分享更新
 ➡️爱扒随便⬅️,http://rihou.cc:555/tv/[mv]爱扒随便
 ➡️不必纠结⬅️,http://rihou.cc:555/tv/[mv]不必纠结
+赛事精锦,#genre#
+⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
+联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛13
+NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛13
+羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛13
+橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛13
+乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛13
+网球赛事回放,http://rihou.cc:555/tv/网球回放赛13
+排球赛事回放,http://rihou.cc:555/tv/排球回放赛13
+格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛13
+斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛13
 NBA赛评,#genre#
-02-13⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-08:30雄鹿🆚雷霆,http://rihou.cc:555/tv/v
-国🔊13咪评述,http://rihou.cc:555/tv/13NBA咪评述
-国🔊13腾评述,http://rihou.cc:555/tv/13NBA腾评述
-10:00爵士🆚开拓者,http://rihou.cc:555/tv/v
-国🔊13咪述评,http://rihou.cc:555/tv/13NBA咪述评
-国🔊13腾述评,http://rihou.cc:555/tv/13NBA腾述评
-11:00湖人🆚独行侠,http://rihou.cc:555/tv/v
-国🔊13咪评评,http://rihou.cc:555/tv/13NBA咪评评
-国🔊13腾评评,http://rihou.cc:555/tv/13NBA腾评评
 02-14⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 08:00NBA全明星名人赛,http://rihou.cc:555/tv/v
 国🔊14咪评述,http://rihou.cc:555/tv/14NBA咪评述
@@ -34,17 +35,6 @@ NBA赛评,#genre#
 06:00NBA全明星正赛,http://rihou.cc:555/tv/v
 国🔊16咪评述,http://rihou.cc:555/tv/16NBA咪评述
 国🔊16腾评述,http://rihou.cc:555/tv/16NBA腾评述
-赛事精锦,#genre#
-⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
-联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛13
-NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛13
-羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛13
-橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛13
-乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛13
-网球赛事回放,http://rihou.cc:555/tv/网球回放赛13
-排球赛事回放,http://rihou.cc:555/tv/排球回放赛13
-格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛13
-斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛13
 赛事咪咕,#genre#
 抖姐舞陪你看,http://rihou.cc:555/tv/t
 赛事睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=f9b9dd45f9b9dd45f9b9dd45f9b9dd45
@@ -303,6 +293,47 @@ CCTV-17咪咕,http://t.061899.xyz/tl/tl.php?id=cctv17
 西藏卫视咪咕,http://t.061899.xyz/tl/tl.php?id=xzws
 内蒙古视咪咕,http://t.061899.xyz/tl/tl.php?id=nmgws
 黑龙江视咪咕,http://t.061899.xyz/tl/tl.php?id=hljws
+特闽Ustv,#genre#
+中天新闻Ustv,http://rihou.cc:555/tv/[Us]中天新闻
+Now财经Ustv,http://rihou.cc:555/tv/[Us]Now财经
+Now星影Ustv,http://rihou.cc:555/tv/[Us]Now星影
+Now爆谷Ustv,http://rihou.cc:555/tv/[Us]Now爆谷
+Now英超Ustv,http://rihou.cc:555/tv/[Us]Now英超
+无线体育Ustv,http://rihou.cc:555/tv/[Us]无线体育
+无线赛马Ustv,http://rihou.cc:555/tv/[Us]无线赛马
+无线星河Ustv,http://rihou.cc:555/tv/[Us]无线星河
+无线娱乐Ustv,http://rihou.cc:555/tv/[Us]无线娱乐
+无线综合Ustv,http://rihou.cc:555/tv/[Us]无线综合
+无线戏曲Ustv,http://rihou.cc:555/tv/[Us]无线戏曲
+无线粤片Ustv,http://rihou.cc:555/tv/[Us]无线粤片
+无线亚剧Ustv,http://rihou.cc:555/tv/[Us]无线亚剧
+无线华剧Ustv,http://rihou.cc:555/tv/[Us]无线华剧
+无线经典Ustv,http://rihou.cc:555/tv/[Us]无线经典
+黄金翡翠Ustv,http://rihou.cc:555/tv/[Us]黄金翡翠
+美亚电影Ustv,http://rihou.cc:555/tv/[Us]美亚电影
+天映频道Ustv,http://rihou.cc:555/tv/[Us]天映频道
+新加坡_8Ustv,http://rihou.cc:555/tv/[Us]新加坡-8
+央四欧美Ustv,http://rihou.cc:555/tv/[Us]央四欧美
+东南卫视Ustv,http://rihou.cc:555/tv/[Us]东南卫视
+河南卫视Ustv,http://rihou.cc:555/tv/[Us]河南卫视
+广东湾区Ustv,http://rihou.cc:555/tv/[Us]广东湾区
+天元围棋Ustv,http://rihou.cc:555/tv/[Us]天元围棋
+中天新聞Ustv,http://rihou.cc:555/tv/[Us]中天新聞
+寰宇新闻Ustv,http://rihou.cc:555/tv/[Us]寰宇新闻
+东森新闻Ustv,http://rihou.cc:555/tv/[Us]东森新闻
+三立新闻Ustv,http://rihou.cc:555/tv/[Us]三立新闻
+民视新闻Ustv,http://rihou.cc:555/tv/[Us]民视新闻
+闽壹新闻Ustv,http://rihou.cc:555/tv/[Us]闽壹新闻
+闽壹新闻Ustv,http://rihou.cc:555/tv/[Us]闽壹新聞
+非凡新闻Ustv,http://rihou.cc:555/tv/[Us]非凡新闻
+tvbS新闻Ustv,http://rihou.cc:555/tv/[Us]tvbS新闻
+tvbS闽南Ustv,http://rihou.cc:555/tv/[Us]tvbS闽南
+公视闽南Ustv,http://rihou.cc:555/tv/[Us]公视闽南
+民视闽南Ustv,http://rihou.cc:555/tv/[Us]民视闽南
+中视闽南Ustv,http://rihou.cc:555/tv/[Us]中视闽南
+华视闽南Ustv,http://rihou.cc:555/tv/[Us]华视闽南
+台视闽南Ustv,http://rihou.cc:555/tv/[Us]台视闽南
+三立闽南Ustv,http://rihou.cc:555/tv/[Us]三立闽南
 欣赏频道,#genre#
 粤语戏曲欣赏,http://tl.061833.xyz/tl/null-15
 粤语戏曲欣赏,http://rihou.cc:555/tv/[Uk]无线戏曲

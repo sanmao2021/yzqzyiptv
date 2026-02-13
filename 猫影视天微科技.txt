@@ -8,17 +8,6 @@
 ➡️分享更新⬅️,http://rihou.cc:555/tv/[mv]分享更新
 ➡️爱扒随便⬅️,http://rihou.cc:555/tv/[mv]爱扒随便
 ➡️不必纠结⬅️,http://rihou.cc:555/tv/[mv]不必纠结
-赛事精锦,#genre#
-⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
-联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛13
-NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛13
-羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛13
-橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛13
-乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛13
-网球赛事回放,http://rihou.cc:555/tv/网球回放赛13
-排球赛事回放,http://rihou.cc:555/tv/排球回放赛13
-格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛13
-斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛13
 NBA赛评,#genre#
 02-14⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 08:00NBA全明星名人赛,http://rihou.cc:555/tv/v
@@ -35,6 +24,17 @@ NBA赛评,#genre#
 06:00NBA全明星正赛,http://rihou.cc:555/tv/v
 国🔊16咪评述,http://rihou.cc:555/tv/16NBA咪评述
 国🔊16腾评述,http://rihou.cc:555/tv/16NBA腾评述
+赛事精锦,#genre#
+⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
+联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛14
+NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛14
+羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛14
+橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛14
+乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛14
+网球赛事回放,http://rihou.cc:555/tv/网球回放赛14
+排球赛事回放,http://rihou.cc:555/tv/排球回放赛14
+格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛14
+斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛14
 赛事咪咕,#genre#
 抖姐舞陪你看,http://rihou.cc:555/tv/t
 赛事睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=f9b9dd45f9b9dd45f9b9dd45f9b9dd45
@@ -334,6 +334,58 @@ tvbS闽南Ustv,http://rihou.cc:555/tv/[Us]tvbS闽南
 华视闽南Ustv,http://rihou.cc:555/tv/[Us]华视闽南
 台视闽南Ustv,http://rihou.cc:555/tv/[Us]台视闽南
 三立闽南Ustv,http://rihou.cc:555/tv/[Us]三立闽南
+三立戏剧Ustv,http://rihou.cc:555/tv/[Us]三立戏剧
+三立综合Ustv,http://rihou.cc:555/tv/[Us]三立综合
+八大第一Ustv,http://rihou.cc:555/tv/[Us]八大第一
+八大戏剧Ustv,http://rihou.cc:555/tv/[Us]八大戏剧
+八大综合Ustv,http://rihou.cc:555/tv/[Us]八大综合
+中天综合Ustv,http://rihou.cc:555/tv/[Us]中天综合
+中天娱乐Ustv,http://rihou.cc:555/tv/[Us]中天娱乐
+靖天欢乐Ustv,http://rihou.cc:555/tv/[Us]靖天欢乐
+靖天欢乐Ustv,http://rihou.cc:555/tv/[Us]靖天欢乐|
+ELta综合Ustv,http://rihou.cc:555/tv/[Us]ELta综合
+ELta体壹Ustv,http://rihou.cc:555/tv/[Us]ELta体壹
+ELta体壹Ustv,http://rihou.cc:555/tv/[Us]ELta体壹|
+ELta体贰Ustv,http://rihou.cc:555/tv/[Us]ELta体贰
+ELta体叁Ustv,http://rihou.cc:555/tv/[Us]ELta体叁
+ELta体肆Ustv,http://rihou.cc:555/tv/[Us]ELta体肆
+DAZN-壹Ustv,http://rihou.cc:555/tv/[Us]DAZN-壹
+DAZN-贰Ustv,http://rihou.cc:555/tv/[Us]DAZN-贰
+博斯高壹Ustv,http://rihou.cc:555/tv/[Us]博斯高壹
+博斯高贰Ustv,http://rihou.cc:555/tv/[Us]博斯高贰
+博斯运壹Ustv,http://rihou.cc:555/tv/[Us]博斯运壹
+博斯运贰Ustv,http://rihou.cc:555/tv/[Us]博斯运贰
+纬来体育Ustv,http://rihou.cc:555/tv/[Us]纬来体育
+纬来综合Ustv,http://rihou.cc:555/tv/[Us]纬来综合
+纬来日本Ustv,http://rihou.cc:555/tv/[Us]纬来日本
+纬来电影Ustv,http://rihou.cc:555/tv/[Us]纬来电影
+好莱电影Ustv,http://rihou.cc:555/tv/[Us]好莱电影
+CAT'电影Ustv,http://rihou.cc:555/tv/[Us]CAT电影
+闽壹电影Ustv,http://rihou.cc:555/tv/[Us]闽壹电影
+华纳电影Ustv,http://rihou.cc:555/tv/[Us]华纳电影
+龙华电影Ustv,http://rihou.cc:555/tv/[Us]龙华电影
+龙华日韩Ustv,http://rihou.cc:555/tv/[Us]龙华日韩
+东森电影Ustv,http://rihou.cc:555/tv/[Us]东森电影
+东森戏剧Ustv,http://rihou.cc:555/tv/[Us]东森戏剧
+东森财经Ustv,http://rihou.cc:555/tv/[Us]东森财经
+东森洋片Ustv,http://rihou.cc:555/tv/[Us]东森洋片
+东森综合Ustv,http://rihou.cc:555/tv/[Us]东森综合
+尼克动画Ustv,http://rihou.cc:555/tv/[Us]尼克动画
+MO_亲子Ustv,http://rihou.cc:555/tv/[Us]MO-亲子
+大爱频道Ustv,http://rihou.cc:555/tv/[Us]大爱频道
+国家地理Ustv,http://rihou.cc:555/tv/[Us]国家地理
+动物星球Ustv,http://rihou.cc:555/tv/[Us]动物星球
+HBO高清Ustv,http://rihou.cc:555/tv/[Us]HBO高清
+HBOHITsUstv,http://rihou.cc:555/tv/[Us]HBOHITs
+HBOfamiUstv,http://rihou.cc:555/tv/[Us]HBOfami
+HBOignAUstv,http://rihou.cc:555/tv/[Us]HBOignA
+BBC新闻Ustv,http://rihou.cc:555/tv/[Us]BBC新闻
+CNN新闻Ustv,http://rihou.cc:555/tv/[Us]CNN新闻
+DW_之声Ustv,http://rihou.cc:555/tv/[Us]DW-之声
+ABC综合Ustv,http://rihou.cc:555/tv/[Us]ABC综合
+NHK日本Ustv,http://rihou.cc:555/tv/[Us]NHK日本
+国际财经Ustv,http://rihou.cc:555/tv/[Us]国际财经
+france24Ustv,http://rihou.cc:555/tv/[Us]france24
 欣赏频道,#genre#
 粤语戏曲欣赏,http://tl.061833.xyz/tl/null-15
 粤语戏曲欣赏,http://rihou.cc:555/tv/[Uk]无线戏曲
@@ -709,7 +761,7 @@ WWE_格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 网页音乐,#genre#
 ⬇️全天直播⬇️,video://http://rihou.cc:555/tv/网页库播
 音乐库播抖播,video://http://rihou.cc:555/tv/网页库播
-音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖13
+音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖14
 翡翠音乐抖播,video://http://rihou.cc:555/tv/网页翡翠
 怀旧音乐抖播,video://http://rihou.cc:555/tv/网页怀音
 怀旧粤语抖播,video://http://rihou.cc:555/tv/网页怀粤
@@ -871,8 +923,8 @@ BEYOND'抖播,video://http://rihou.cc:555/tv/网页B安
 成何体统16集,http://cjx.999315.xyz/yzzy/20260211/14291_95a5a822/index.m3u8
 成何体统17集,http://cjx.999315.xyz/yzzy/20260212/14353_54d0ad87/index.m3u8
 成何体统18集,http://cjx.999315.xyz/yzzy/20260212/14354_184264bf/index.m3u8
-成何体统19集
-成何体统20集
+成何体统19集,http://cjx.999315.xyz/yzzy/20260213/19920_628347fb/index.m3u8
+成何体统20集,http://cjx.999315.xyz/yzzy/20260213/19921_70b04185/index.m3u8
 成何体统21集
 成何体统22集
 成何体统23集
@@ -904,8 +956,8 @@ BEYOND'抖播,video://http://rihou.cc:555/tv/网页B安
 唐宫奇案16集,http://cjx.999315.xyz/yzzy/20260211/19730_10527289/index.m3u8
 唐宫奇案17集,http://cjx.999315.xyz/yzzy/20260212/19800_56b68074/index.m3u8
 唐宫奇案18集,http://cjx.999315.xyz/yzzy/20260212/7785_fa47a8af/index.m3u8
-唐宫奇案19集
-唐宫奇案20集
+唐宫奇案19集,http://cjx.999315.xyz/yzzy/20260213/19922_603a7cc0/index.m3u8
+唐宫奇案20集,http://cjx.999315.xyz/yzzy/20260213/14448_604541b9/index.m3u8
 唐宫奇案21集
 唐宫奇案22集
 唐宫奇案23集

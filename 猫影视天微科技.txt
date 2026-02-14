@@ -8,11 +8,18 @@
 ➡️分享更新⬅️,http://rihou.cc:555/tv/[mv]分享更新
 ➡️爱扒随便⬅️,http://rihou.cc:555/tv/[mv]爱扒随便
 ➡️不必纠结⬅️,http://rihou.cc:555/tv/[mv]不必纠结
+赛事精锦,#genre#
+⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
+联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛15
+NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛15
+羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛15
+橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛15
+乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛15
+网球赛事回放,http://rihou.cc:555/tv/网球回放赛15
+排球赛事回放,http://rihou.cc:555/tv/排球回放赛15
+格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛15
+斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛15
 NBA赛评,#genre#
-02-14⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-11:00NBA全明星新秀赛,http://rihou.cc:555/tv/v
-国🔊14咪述评,http://rihou.cc:555/tv/14NBA咪述评
-国🔊14腾述评,http://rihou.cc:555/tv/14NBA腾述评
 02-15⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 06:00全明星投篮之星三分扣篮大赛,http://rihou.cc:555/tv/v
 国🔊15咪评述,http://rihou.cc:555/tv/15NBA咪评述
@@ -21,17 +28,6 @@ NBA赛评,#genre#
 06:00NBA全明星正赛,http://rihou.cc:555/tv/v
 国🔊16咪评述,http://rihou.cc:555/tv/16NBA咪评述
 国🔊16腾评述,http://rihou.cc:555/tv/16NBA腾评述
-赛事精锦,#genre#
-⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
-联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛14
-NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛14
-羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛14
-橄球赛事回放,http://rihou.cc:555/tv/橄球回放赛14
-乒球赛事回放,http://rihou.cc:555/tv/乒球回放赛14
-网球赛事回放,http://rihou.cc:555/tv/网球回放赛14
-排球赛事回放,http://rihou.cc:555/tv/排球回放赛14
-格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛14
-斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛14
 赛事咪咕,#genre#
 抖姐舞陪你看,http://rihou.cc:555/tv/t
 赛事睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=d1d10b5dd1d10b5dd1d10b5dd1d10b5d
@@ -420,6 +416,36 @@ astroaodUktv,http://rihou.cc:555/tv/[Uk]astroaod
 astroaecUktv,http://rihou.cc:555/tv/[Uk]astroaec
 astro-QJUktv,http://rihou.cc:555/tv/[Uk]astro-QJ
 KTSF_26Uktv,http://rihou.cc:555/tv/[Uk]KTSF26
+特新Pdtv,#genre#
+Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
+凤凰中文Pdtv,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰资讯Pdtv,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰香港Pdtv,http://rihou.cc:555/tv/[Pd]凤凰香港
+有线综合Pdtv,http://rihou.cc:555/tv/[Pd]有线综合
+有线亚剧Pdtv,http://rihou.cc:555/tv/[Pd]有线亚剧
+无线新闻Pdtv,http://rihou.cc:555/tv/[Pd]无线新闻
+无线翡翠Pdtv,http://rihou.cc:555/tv/[Pd]无线翡翠
+无线翡翠4Ktv,http://rihou.cc:555/tv/[Pd]无线翡4K
+无线华丽Pdtv,http://rihou.cc:555/tv/[Pd]无线华丽
+无线明珠Pdtv,http://rihou.cc:555/tv/[Pd]无线明珠
+无线星河Pdtv,http://rihou.cc:555/tv/[Pd]无线星河
+无线功夫Pdtv,http://rihou.cc:555/tv/[Pd]无线功夫
+澳视澳门Pdtv,http://rihou.cc:555/tv/[Pd]澳视澳门
+澳视卫星Pdtv,http://rihou.cc:555/tv/[Pd]澳视卫星
+澳门体育Pdtv,http://rihou.cc:555/tv/[Pd]澳门体育
+澳门综艺Pdtv,http://rihou.cc:555/tv/[Pd]澳门综艺
+澳门莲花Pdtv,http://rihou.cc:555/tv/[Pd]澳门莲花
+央视综合Pdtv,http://rihou.cc:555/tv/[Pd]央视综合
+重温经典Pdtv,http://rihou.cc:555/tv/[Pd]重温经典
+龙华电影Pdtv,http://rihou.cc:555/tv/[Pd]龙华电影
+龙华经典Pdtv,http://rihou.cc:555/tv/[Pd]龙华经典
+龙华偶像Pdtv,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华日韩Pdtv,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华戏剧Pdtv,http://rihou.cc:555/tv/[Pd]龙华戏剧
+CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
+CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
+CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
+八度空间Pdtv,http://rihou.cc:555/tv/[Pd]八度空间
 欣赏频道,#genre#
 粤语戏曲欣赏,http://tl.061833.xyz/tl/null-15
 粤语戏曲欣赏,http://rihou.cc:555/tv/[Uk]无线戏曲
@@ -739,7 +765,7 @@ WWE_格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 网页音乐,#genre#
 ⬇️全天直播⬇️,video://http://rihou.cc:555/tv/网页库播
 音乐库播抖播,video://http://rihou.cc:555/tv/网页库播
-音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖14
+音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖15
 翡翠音乐抖播,video://http://rihou.cc:555/tv/网页翡翠
 怀旧音乐抖播,video://http://rihou.cc:555/tv/网页怀音
 怀旧粤语抖播,video://http://rihou.cc:555/tv/网页怀粤
@@ -903,8 +929,8 @@ BEYOND'抖播,video://http://rihou.cc:555/tv/网页B安
 成何体统18集,http://cjx.999315.xyz/yzzy/20260212/14354_184264bf/index.m3u8
 成何体统19集,http://cjx.999315.xyz/yzzy/20260213/19920_628347fb/index.m3u8
 成何体统20集,http://cjx.999315.xyz/yzzy/20260213/19921_70b04185/index.m3u8
-成何体统21集
-成何体统22集
+成何体统21集,http://cjx.999315.xyz/yzzy/20260214/14518_1357bcf2/index.m3u8
+成何体统22集,http://cjx.999315.xyz/yzzy/20260214/14519_2d10de96/index.m3u8
 成何体统23集
 成何体统24集
 成何体统25集
@@ -936,8 +962,8 @@ BEYOND'抖播,video://http://rihou.cc:555/tv/网页B安
 唐宫奇案18集,http://cjx.999315.xyz/yzzy/20260212/7785_fa47a8af/index.m3u8
 唐宫奇案19集,http://cjx.999315.xyz/yzzy/20260213/19922_603a7cc0/index.m3u8
 唐宫奇案20集,http://cjx.999315.xyz/yzzy/20260213/14448_604541b9/index.m3u8
-唐宫奇案21集
-唐宫奇案22集
+唐宫奇案21集,http://cjx.999315.xyz/yzzy/20260214/20046_47248f61/index.m3u8
+唐宫奇案22集,http://cjx.999315.xyz/yzzy/20260214/14522_67efdede/index.m3u8
 唐宫奇案23集
 唐宫奇案24集
 唐宫奇案25集
@@ -1096,38 +1122,6 @@ RTHK-32DBtv,http://rihou.cc:555/tv/[DB]RTHK-32
 RTHK-33DBtv,http://rihou.cc:555/tv/[DB]RTHK-33
 RTHK-34DBtv,http://rihou.cc:555/tv/[DB]RTHK-34
 RTHK-35DBtv,http://rihou.cc:555/tv/[DB]RTHK-35
-特新Pdtv,#genre#
-Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
-凤凰中文Pdtv,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰资讯Pdtv,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰香港Pdtv,http://rihou.cc:555/tv/[Pd]凤凰香港
-有线综合Pdtv,http://rihou.cc:555/tv/[Pd]有线综合
-有线亚剧Pdtv,http://rihou.cc:555/tv/[Pd]有线亚剧
-无线新闻Pdtv,http://rihou.cc:555/tv/[Pd]无线新闻
-无线翡翠Pdtv,http://rihou.cc:555/tv/[Pd]无线翡翠
-无线翡翠4Ktv,http://rihou.cc:555/tv/[Pd]无线翡4K
-无线华丽Pdtv,http://rihou.cc:555/tv/[Pd]无线华丽
-无线明珠Pdtv,http://rihou.cc:555/tv/[Pd]无线明珠
-无线星河Pdtv,http://rihou.cc:555/tv/[Pd]无线星河
-无线功夫Pdtv,http://rihou.cc:555/tv/[Pd]无线功夫
-澳视澳门Pdtv,http://rihou.cc:555/tv/[Pd]澳视澳门
-澳视卫星Pdtv,http://rihou.cc:555/tv/[Pd]澳视卫星
-澳门体育Pdtv,http://rihou.cc:555/tv/[Pd]澳门体育
-澳门综艺Pdtv,http://rihou.cc:555/tv/[Pd]澳门综艺
-澳门莲花Pdtv,http://rihou.cc:555/tv/[Pd]澳门莲花
-央视综合Pdtv,http://rihou.cc:555/tv/[Pd]央视综合
-重温经典Pdtv,http://rihou.cc:555/tv/[Pd]重温经典
-龙华电影Pdtv,http://rihou.cc:555/tv/[Pd]龙华电影
-龙华洋片Pdtv,http://rihou.cc:555/tv/[Pd]龙华洋片
-龙华经典Pdtv,http://rihou.cc:555/tv/[Pd]龙华经典
-龙华卡通Pdtv,http://rihou.cc:555/tv/[Pd]龙华卡通
-龙华偶像Pdtv,http://rihou.cc:555/tv/[Pd]龙华偶像
-龙华日韩Pdtv,http://rihou.cc:555/tv/[Pd]龙华日韩
-龙华戏剧Pdtv,http://rihou.cc:555/tv/[Pd]龙华戏剧
-CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
-CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
-CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
-八度空间Pdtv,http://rihou.cc:555/tv/[Pd]八度空间
 特马SXtv,#genre#
 Plus综合SXtv,http://rihou.cc:555/tv/[SX]Plus综合
 凤凰中文SXtv,http://rihou.cc:555/tv/[SX]凤凰中文

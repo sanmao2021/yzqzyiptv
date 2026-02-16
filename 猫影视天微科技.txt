@@ -8,11 +8,6 @@
 ➡️分享更新⬅️,http://rihou.cc:555/tv/[mv]分享更新
 ➡️爱扒随便⬅️,http://rihou.cc:555/tv/[mv]爱扒随便
 ➡️不必纠结⬅️,http://rihou.cc:555/tv/[mv]不必纠结
-NBA赛评,#genre#
-02-16⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-06:00NBA全明星正赛,http://rihou.cc:555/tv/v
-国🔊16咪评述,http://rihou.cc:555/tv/16NBA咪评述
-国🔊16腾评述,http://rihou.cc:555/tv/16NBA腾评述
 赛事精锦,#genre#
 ⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
 联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛16
@@ -929,7 +924,7 @@ BEYOND'抖播,video://http://rihou.cc:555/tv/网页B安
 成何体统22集,http://cjx.999315.xyz/yzzy/20260214/14519_2d10de96/index.m3u8
 成何体统23集,http://cjx.999315.xyz/yzzy/20260215/8057_c0172ea6/index.m3u8
 成何体统24集,http://cjx.999315.xyz/yzzy/20260215/8058_5ee56059/index.m3u8
-成何体统25集
+成何体统25集,http://cjx.999315.xyz/yzzy/20260216/14646_dfc0a2d6/index.m3u8
 成何体统26集
 成何体统27集
 成何体统28集

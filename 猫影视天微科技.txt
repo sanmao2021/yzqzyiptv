@@ -939,8 +939,8 @@ BEYOND'抖播,video://http://rihou.cc:555/tv/网页B安
 成何体统23集,http://cjx.999315.xyz/yzzy/20260215/8057_c0172ea6/index.m3u8
 成何体统24集,http://cjx.999315.xyz/yzzy/20260215/8058_5ee56059/index.m3u8
 成何体统25集,http://cjx.999315.xyz/yzzy/20260216/14646_dfc0a2d6/index.m3u8
-成何体统26集
-成何体统27集
+成何体统26集,http://cjx.999315.xyz/yzzy/20260217/14660_683c4699/index.m3u8
+成何体统27集,http://cjx.999315.xyz/yzzy/20260217/14661_e0c5e4ce/index.m3u8
 成何体统28集
 成何体统29集
 成何体统30集

@@ -24,52 +24,56 @@ NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛20
 排球赛事回放,http://rihou.cc:555/tv/排球回放赛20
 格斗赛事回放,http://rihou.cc:555/tv/格斗回放赛20
 斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛20
+NBA赛评,#genre#
+02-21⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
+08:00骑士🆚黄蜂,http://rihou.cc:555/tv/v
+国🔊21咪评述,http://rihou.cc:555/tv/21NBA咪评述
+国🔊21腾评述,http://rihou.cc:555/tv/21NBA腾评述
+08:00爵士🆚灰熊,http://rihou.cc:555/tv/v
+国🔊21咪述评,http://rihou.cc:555/tv/21NBA咪述评
+国🔊21腾述评,http://rihou.cc:555/tv/21NBA腾述评
+08:00奇才🆚步行者,http://rihou.cc:555/tv/v
+国🔊21咪评评,http://rihou.cc:555/tv/21NBA咪评评
+国🔊21腾评评,http://rihou.cc:555/tv/21NBA腾评评
+08:30木狼🆚独行侠,http://rihou.cc:555/tv/v
+国🔊21咪述述,http://rihou.cc:555/tv/21NBA咪述述
+国🔊21腾述述,http://rihou.cc:555/tv/21NBA腾述述
+08:30热火🆚老鹰,http://rihou.cc:555/tv/v
+国🔊21咪旁述,http://rihou.cc:555/tv/21NBA咪旁述
+国🔊21腾旁述,http://rihou.cc:555/tv/21NBA腾旁述
+09:00雄鹿🆚鹈鹕,http://rihou.cc:555/tv/v
+国🔊21咪述旁,http://rihou.cc:555/tv/21NBA咪述旁
+国🔊21腾述旁,http://rihou.cc:555/tv/21NBA腾述旁
+09:00篮网🆚雷霆,http://rihou.cc:555/tv/v
+国🔊21咪旁旁,http://rihou.cc:555/tv/21NBA咪旁旁
+国🔊21腾旁旁,http://rihou.cc:555/tv/21NBA腾旁旁
+11:00掘金🆚开拓者,http://rihou.cc:555/tv/v
+国🔊21咪旁评,http://rihou.cc:555/tv/21NBA咪旁评
+国🔊21腾旁评,http://rihou.cc:555/tv/21NBA腾旁评
+11:00快船🆚湖人,http://rihou.cc:555/tv/v
+国🔊21咪评旁,http://rihou.cc:555/tv/21NBA咪评旁
+国🔊21腾评旁,http://rihou.cc:555/tv/21NBA腾评旁
+02-22⬇️NBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
+06:00魔术🆚太阳,http://rihou.cc:555/tv/v
+国🔊22咪评述,http://rihou.cc:555/tv/22NBA咪评述
+国🔊22腾评述,http://rihou.cc:555/tv/22NBA腾评述
+08:0076人🆚鹈鹕,http://rihou.cc:555/tv/v
+国🔊22咪述评,http://rihou.cc:555/tv/22NBA咪述评
+国🔊22腾述评,http://rihou.cc:555/tv/22NBA腾述评
+09:00国王🆚马刺,http://rihou.cc:555/tv/v
+国🔊22咪评评,http://rihou.cc:555/tv/22NBA咪评评
+国🔊22腾评评,http://rihou.cc:555/tv/22NBA腾评评
+09:00灰熊🆚热火,http://rihou.cc:555/tv/v
+国🔊22咪述述,http://rihou.cc:555/tv/22NBA咪述述
+国🔊22腾述述,http://rihou.cc:555/tv/22NBA腾述述
+09:00活塞🆚公牛,http://rihou.cc:555/tv/v
+国🔊22咪旁述,http://rihou.cc:555/tv/22NBA咪旁述
+国🔊22腾旁述,http://rihou.cc:555/tv/22NBA腾旁述
+09:30火箭🆚尼克斯,http://rihou.cc:555/tv/v
+国🔊22咪述旁,http://rihou.cc:555/tv/22NBA咪述旁
+国🔊22腾述旁,http://rihou.cc:555/tv/22NBA腾述旁
 赛事咪咕,#genre#
 抖姐舞陪你看,http://rihou.cc:555/tv/t
-赛事睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=2cd3f1202cd3f1202cd3f1202cd3f120
-赛事睛彩篮球,https://msj.188766.xyz/play?id=3000000020000011529&token=2cd3f1212cd3f1212cd3f1212cd3f121
-赛事睛彩青少,https://msj.188766.xyz/play?id=3000000020000011525&token=2cd3f11d2cd3f11d2cd3f11d2cd3f11d
-赛事睛彩广场,https://msj.188766.xyz/play?id=3000000020000011523&token=2cd3f11b2cd3f11b2cd3f11b2cd3f11b
-军事国防央七,https://msj.188766.xyz/play?id=3000000010000011518&token=97ef3e4097ef3e4097ef3e4097ef3e40
-军事国防央七,https://msj.188766.xyz/play?id=3000000020000011522&token=2cd3f11a2cd3f11a2cd3f11a2cd3f11a
-赛事咪咕播01,https://msj.188766.xyz/play?id=3000000001000005308&token=f747aef8f747aef8f747aef8f747aef8
-赛事咪咕播02,https://msj.188766.xyz/play?id=3000000001000005969&token=f747c639f747c639f747c639f747c639
-赛事咪咕播03,https://msj.188766.xyz/play?id=3000000001000007218&token=f7489414f7489414f7489414f7489414
-赛事咪咕播04,https://msj.188766.xyz/play?id=3000000001000008001&token=f74900cbf74900cbf74900cbf74900cb
-赛事咪咕播05,https://msj.188766.xyz/play?id=3000000001000008176&token=f749056af749056af749056af749056a
-赛事咪咕播06,https://msj.188766.xyz/play?id=3000000001000008379&token=f7490ceff7490ceff7490ceff7490cef
-赛事咪咕播07,https://msj.188766.xyz/play?id=3000000001000010129&token=f753795bf753795bf753795bf753795b
-赛事咪咕播08,https://msj.188766.xyz/play?id=3000000001000010948&token=f75397a0f75397a0f75397a0f75397a0
-赛事咪咕播09,https://msj.188766.xyz/play?id=3000000001000028638&token=f76546b7f76546b7f76546b7f76546b7
-赛事咪咕播10,https://msj.188766.xyz/play?id=3000000001000031494&token=f77028d3f77028d3f77028d3f77028d3
-赛事咪咕播11,https://msj.188766.xyz/play?id=3000000010000000097&token=97e0a09297e0a09297e0a09297e0a092
-赛事咪咕播12,https://msj.188766.xyz/play?id=3000000010000002019&token=97e1885a97e1885a97e1885a97e1885a
-赛事咪咕播13,https://msj.188766.xyz/play?id=3000000010000002809&token=97e1a64397e1a64397e1a64397e1a643
-赛事咪咕播14,https://msj.188766.xyz/play?id=3000000010000003915&token=97e21e7e97e21e7e97e21e7e97e21e7e
-赛事咪咕播15,https://msj.188766.xyz/play?id=3000000010000004193&token=97e275cb97e275cb97e275cb97e275cb
-赛事咪咕播16,https://msj.188766.xyz/play?id=3000000010000005837&token=97e303bb97e303bb97e303bb97e303bb
-赛事咪咕播17,https://msj.188766.xyz/play?id=3000000010000006077&token=97e35a8e97e35a8e97e35a8e97e35a8e
-赛事咪咕播18,https://msj.188766.xyz/play?id=3000000010000006658&token=97e370d797e370d797e370d797e370d7
-赛事咪咕播19,https://msj.188766.xyz/play?id=3000000010000009788&token=97e4d21297e4d21297e4d21297e4d212
-赛事咪咕播20,https://msj.188766.xyz/play?id=3000000010000010833&token=97eed55d97eed55d97eed55d97eed55d
-赛事咪咕播21,https://msj.188766.xyz/play?id=3000000010000011297&token=97ef33f497ef33f497ef33f497ef33f4
-赛事咪咕播22,https://msj.188766.xyz/play?id=3000000010000012558&token=97efb31b97efb31b97efb31b97efb31b
-赛事咪咕播23,https://msj.188766.xyz/play?id=3000000010000012616&token=97efb65e97efb65e97efb65e97efb65e
-赛事咪咕播24,https://msj.188766.xyz/play?id=3000000010000015470&token=97f10cad97f10cad97f10cad97f10cad
-赛事咪咕播25,https://msj.188766.xyz/play?id=3000000010000015560&token=97f1104f97f1104f97f1104f97f1104f
-赛事咪咕播26,https://msj.188766.xyz/play?id=3000000010000017678&token=97f1fcf597f1fcf597f1fcf597f1fcf5
-赛事咪咕播27,https://msj.188766.xyz/play?id=3000000010000019839&token=97f2ecba97f2ecba97f2ecba97f2ecba
-赛事咪咕播28,https://msj.188766.xyz/play?id=3000000010000021904&token=97fd64a297fd64a297fd64a297fd64a2
-赛事咪咕播29,https://msj.188766.xyz/play?id=3000000010000023434&token=97fe3af897fe3af897fe3af897fe3af8
-赛事咪咕播30,https://msj.188766.xyz/play?id=3000000010000025380&token=97ff208c97ff208c97ff208c97ff208c
-赛事咪咕播31,https://msj.188766.xyz/play?id=3000000010000027691&token=980014ad980014ad980014ad980014ad
-赛事咪咕播32,https://msj.188766.xyz/play?id=3000000010000031669&token=980b719f980b719f980b719f980b719f
-赛事咪咕播33,https://msj.188766.xyz/play?id=3000000020000011518&token=2cd3f1012cd3f1012cd3f1012cd3f101
-赛事咪咕播34,https://msj.188766.xyz/play?id=3000000020000011519&token=2cd3f1022cd3f1022cd3f1022cd3f102
-赛事咪咕播35,https://msj.188766.xyz/play?id=3000000020000011520&token=2cd3f1182cd3f1182cd3f1182cd3f118
-赛事咪咕播36,https://msj.188766.xyz/play?id=3000000020000011521&token=2cd3f1192cd3f1192cd3f1192cd3f119
-赛事咪咕播4k,https://msj.188766.xyz/play?id=3000000010000005180&token=97e2ea0897e2ea0897e2ea0897e2ea08
-赛事至臻视界,https://msj.188766.xyz/play?id=3000000010000015686&token=97f1145497f1145497f1145497f11454
 赛事睛彩竞技,http://rihou.cc:555/tv/[mg]睛彩竞技
 赛事睛彩竞技,http://rihou.cc:555/tv/[mg]睛彩竞技|
 赛事睛彩篮球,http://rihou.cc:555/tv/[mg]睛彩篮球
@@ -282,6 +286,35 @@ CCTV-17咪咕,http://t.061899.xyz/tl/tl.php?id=cctv17
 西藏卫视咪咕,http://t.061899.xyz/tl/tl.php?id=xzws
 内蒙古视咪咕,http://t.061899.xyz/tl/tl.php?id=nmgws
 黑龙江视咪咕,http://t.061899.xyz/tl/tl.php?id=hljws
+特区频流,#genre#
+pₒₚc电影频流,http://tl.061833.xyz/tl/popc
+Plus综合频流,http://tl.061833.xyz/tl/pluse
+无线新闻频流,http://tl.061833.xyz/tl/null-11
+无线翡翠频流,http://tl.061833.xyz/tl/null
+无线明珠频流,http://tl.061833.xyz/tl/null-12
+无线娱乐频流,http://tl.061833.xyz/tl/null-14
+无线经典频流,http://tl.061833.xyz/tl/null-3
+无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
+无线戏曲频流,http://tl.061833.xyz/tl/null-15
+无线粤片频流,http://tl.061833.xyz/tl/null-10
+无线亚剧频流,http://tl.061833.xyz/tl/null-13 
+无线华剧频流,http://tl.061833.xyz/tl/null-4 
+无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
+无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18 
+黄金翡翠频流,http://tl.061833.xyz/tl/null-2 
+黄金华剧频流,http://tl.061833.xyz/tl/null-9
+天映经典频流,http://tl.061833.xyz/tl/null-1
+国家地理频流,http://tl.061833.xyz/tl/lovenaturehd  
+美亚电影频流,http://tl.061833.xyz/tl/null-5
+中国电影频流,http://tl.061833.xyz/tl/null-6
+AXN电影频流,http://tl.061833.xyz/tl/axn
+KIX_韩综频流,http://tl.061833.xyz/tl/kix
+ANIMAX'频流,http://tl.061833.xyz/tl/animax
+rock娱乐频流,http://tl.061833.xyz/tl/rockaction
+rock综艺频流,http://tl.061833.xyz/tl/rock
+Nick儿童频流,http://tl.061833.xyz/tl/nickjr
+Nick少儿频流,http://tl.061833.xyz/tl/nickelodeon
+ZooMoo'频流,http://tl.061833.xyz/tl/zoomoo
 特新Pdtv,#genre#
 Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
 凤凰中文Pdtv,http://rihou.cc:555/tv/[Pd]凤凰中文
@@ -457,34 +490,6 @@ wwe格斗欣赏,http://rihou.cc:555/tv/[FY]wwe格斗
 万辉颁奖典礼,http://rihou.cc:555/tv/[mv]颁奖典礼
 万辉礼红地毯,http://rihou.cc:555/tv/[mv]礼红地毯
 ⬇️欣赏频道⬇️,http://rihou.cc:555/tv/v
-pₒₚc电影频流,http://tl.061833.xyz/tl/popc
-Plus综合频流,http://tl.061833.xyz/tl/pluse
-无线新闻频流,http://tl.061833.xyz/tl/null-11
-无线翡翠频流,http://tl.061833.xyz/tl/null
-无线明珠频流,http://tl.061833.xyz/tl/null-12
-无线娱乐频流,http://tl.061833.xyz/tl/null-14
-无线经典频流,http://tl.061833.xyz/tl/null-3
-无线综合频流,http://tl.061833.xyz/tl/mytvsuperfree
-无线戏曲频流,http://tl.061833.xyz/tl/null-15
-无线粤片频流,http://tl.061833.xyz/tl/null-10
-无线亚剧频流,http://tl.061833.xyz/tl/null-13 
-无线华剧频流,http://tl.061833.xyz/tl/null-4 
-无线少儿频流,http://tl.061833.xyz/tl/superkidschannel
-无线赛马频流,http://tl.061833.xyz/tl/mytvsuper18 
-黄金翡翠频流,http://tl.061833.xyz/tl/null-2 
-黄金华剧频流,http://tl.061833.xyz/tl/null-9
-天映经典频流,http://tl.061833.xyz/tl/null-1
-国家地理频流,http://tl.061833.xyz/tl/lovenaturehd  
-美亚电影频流,http://tl.061833.xyz/tl/null-5
-中国电影频流,http://tl.061833.xyz/tl/null-6
-AXN电影频流,http://tl.061833.xyz/tl/axn
-KIX_韩综频流,http://tl.061833.xyz/tl/kix
-ANIMAX'频流,http://tl.061833.xyz/tl/animax
-rock娱乐频流,http://tl.061833.xyz/tl/rockaction
-rock综艺频流,http://tl.061833.xyz/tl/rock
-Nick儿童频流,http://tl.061833.xyz/tl/nickjr
-Nick少儿频流,http://tl.061833.xyz/tl/nickelodeon
-ZooMoo'频流,http://tl.061833.xyz/tl/zoomoo
 广东珠江频道,http://m.061899.xyz/mg/gdzj
 广东体育频道,http://m.061899.xyz/mg/gdty
 广东民生频道,http://m.061899.xyz/mg/gdms

@@ -11,11 +11,11 @@
 WCBA评,#genre#
 03-27⬇️WCBA1/4决赛⬇️🏀📡,http://rihou.cc:555/tv/t
 19:30东莞新彤盛🆚江苏南钢,http://rihou.cc:555/tv/v
-国🔊27咪评述,http://rihou.cc:555/tv/27WCBA咪评述
+国🔊27抖评述,http://rihou.cc:555/tv/27WCBA抖评述
 19:30四川蜀道远达🆚上海浦发银行,http://rihou.cc:555/tv/v
-国🔊27咪述评,http://rihou.cc:555/tv/27WCBA咪述评
+国🔊27抖述评,http://rihou.cc:555/tv/27WCBA抖述评
 20:00新疆天山🆚山东赤水河酒,http://rihou.cc:555/tv/v
-国🔊27咪评评,http://rihou.cc:555/tv/27WCBA咪评评
+国🔊27抖评评,http://rihou.cc:555/tv/27WCBA抖评评
 03-28⬇️WCBA排位赛⬇️🏀📡,http://rihou.cc:555/tv/t
 19:30浙江稠州银行🆚合肥文旅,http://rihou.cc:555/tv/v
 国🔊28抖评述,http://rihou.cc:555/tv/28WCBA抖评述
@@ -206,6 +206,7 @@ NBA赛评,#genre#
 国🔊31腾旁评,http://rihou.cc:555/tv/31NBA腾旁评
 赛事精锦,#genre#
 ⬇️各大赛事精锦⬇️,http://rihou.cc:555/tv/t
+鞋佬国足回放,http://rihou.cc:555/tv/鞋佬回放赛27
 联赛赛事回放,http://rihou.cc:555/tv/联赛回放赛27
 NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛27
 羽球赛事回放,http://rihou.cc:555/tv/羽球回放赛27

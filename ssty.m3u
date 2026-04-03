@@ -1,452 +1,295 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://epg.v1.mk/fy.xml,https://epg.pw/xmltv/epg_HK.xml.gz,https://epg.pw/xmltv/epg_TW.xml.gz,https://epg.pw/xmltv/epg_GB.xml.gz,https://epg.pw/xmltv/epg_US.xml.gz"
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="💎扫码添加微信💎",💎扫码添加此微信💎
-https://cccimg.com/down.php/5802267b2cc6e35c44d1a83109075206.mp4
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="💎获取最新链接💎",💎以获取最新链接💎
-https://cccimg.com/down.php/5802267b2cc6e35c44d1a83109075206.mp4
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="💎微信:Sss983p💎",💎微信:Sss983p💎
-https://cccimg.com/down.php/5802267b2cc6e35c44d1a83109075206.mp4
+<!DOCTYPE html>
+<html class="html-devise-layout gl-system" lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<title>Sign in · GitLab</title>
+<script nonce="I6a/zteYQOekE3AmCNh9Ww==">
+//<![CDATA[
+window.gon={};gon.features={"passkeys":true,"twoStepSignIn":false};
+//]]>
+</script>
 
+<script nonce="I6a/zteYQOekE3AmCNh9Ww==">
+//<![CDATA[
+const root = document.documentElement;
+if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+  root.classList.add('gl-dark');
+}
 
+window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+  if (e.matches) {
+    root.classList.add('gl-dark');
+  } else {
+    root.classList.remove('gl-dark');
+  }
+});
 
-#EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="🏎五星体育🏎",五星体育1
-https://181166.xyz/wxty1
-#EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="🏎五星体育🏎",五星体育2
-https://181166.xyz/wxty2
-#EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="🏎五星体育🏎",五星体育3
-https://181166.xyz/wxty3
-
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="🏎五星体育🏎",五星体育
-https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="🏎五星体育🏎",五星体育 {上海移动专用}
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="🏎五星体育🏎",五星体育 {上海联通专用}
-http://live.zhongping.jsinfo.net:6060/live/program/live/wxtyhd8m/8000000/mnf.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="🏎五星体育🏎",五星体育 {V6网络专用}
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/1.m3u8
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="🏎五星体育🏎",广东体育
-http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-
-
-#EXTINF:-1 tvg-id="755409" tvg-name="F1-TV Pro" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="🏎F1-赛事🏎",F1-TV Pro（魔法）
-http://1tv41.icu:8080/phi@live.ca/phi@3574/125947
-#EXTINF:-1 tvg-id="755409" tvg-name="F1-TV Pro" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="🏎F1-赛事🏎",F1-TV Pro（魔法）
-http://nocable.cc:8080//OURTV/OURTV@4806/125947
-
-
-#EXTINF:-1 tvg-id="755409" tvg-name="SKY SPORTS F1" tvg-logo="https://logo.doube.eu.org/beesport/SKY_SPORTS_F1.png" group-title="🏎F1-赛事🏎",Sky Sport F1（魔法）
-http://nocable.cc:8080//OURTV/OURTV@4806/35244
-#EXTINF:-1 tvg-id="755409" tvg-name="SKY SPORTS F1" tvg-logo="https://logo.doube.eu.org/beesport/SKY_SPORTS_F1.png" group-title="🏎F1-赛事🏎",Sky Sport F1（魔法）
-https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=Sky_Sports_F1_Live_TV
-
-
-#EXTINF:-1 tvg-id="778247" tvg-name="Sky Sport F1 4K" tvg-logo="https://i.imgur.com/FmLJRIq.png" group-title="🏎F1-赛事🏎",Sky Sport F1 4K
-http://vocotv.pro:8080/IPTV123/IPTV123/620667
-#EXTINF:-1 tvg-id="778247" tvg-name="Sky Sport F1 4K" tvg-logo="https://i.imgur.com/FmLJRIq.png" group-title="🏎F1-赛事🏎",Sky Sport F1 4K
-https://7pal.short.gy/SSF1uhd
-#EXTINF:-1 tvg-id="778247" tvg-name="Sky Sport F1 4K" tvg-logo="https://i.imgur.com/FmLJRIq.png" group-title="🏎F1-赛事🏎",Sky Sport F1 4K
-http://nocable.cc:8080//OURTV/OURTV@4806/35244
-#EXTINF:-1 tvg-id="778247" tvg-name="Sky Sport F1 4K" tvg-logo="https://i.imgur.com/FmLJRIq.png" group-title="🏎F1-赛事🏎",Sky Sport F1 4K
-http://vocotv.pro:8080/IPTV123/IPTV123/746772
-
-
-
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="英超赛事", Hub Premier1 FHD
-https://7pal.short.gy/HPremier1
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="英超赛事", Hub Premier2 FHD
-https://7pal.short.gy/HPremier2
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://i.imgur.com/EIVrelH.png" group-title="英超赛事", Hub Premier3 FHD
-https://7pal.short.gy/HPremier3
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="英超赛事", Now Sports Premier League1 FHD
-https://7pal.short.gy/nowhkp1
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-title="英超赛事", Now Sports PremierLeague 2 FHD
-https://7pal.short.gy/nowhkp2
-#EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/kKFsIHz.png" group-title="英超赛事", Now Sports Premier eague 3-FHD
-https://7pal.short.gy/nowhkp3
-#EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-logo="https://i.imgur.com/M4nTRLb.png" group-title="英超赛事", Astro Premier League FHD
-https://7pal.short.gy/astross1
-#EXTINF:-1 tvg-id="Astro.Premier.League.2.my" tvg-logo="https://i.imgur.com/f6hG3Ok.png" group-title="英超赛事", Astro Premier League 2 FHD
-https://7pal.short.gy/astross2
-#EXTINF:-1 tvg-id="Astro.Grandstand.my" tvg-logo="https://i.imgur.com/u92HNWn.png" group-title="英超赛事", Astro Grandstand FHD
-https://7pal.short.gy/astross3
-#EXTINF:-1 tvg-id="Astro.Football.my" tvg-logo="https://i.imgur.com/ixUEirO.png" group-title="英超赛事", Astro Football FHD
-https://7pal.short.gy/astross4
-#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://i.imgur.com/a7ZwpAe.png" group-title="英超赛事", USA NetWork FHD
-https://7pal.short.gy/usanetwork
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="英超赛事", Sky Sports Main Event FHD
-https://7pal.short.gy/SkSpMainE
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="英超赛事", Sky Sports PremierLeague FHD
-https://7pal.short.gy/ssportspl
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="英超赛事", TNT Sports 1 FHD
-https://7pal.short.gy/tntspts1
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="英超赛事", TNT Sports 2 FHD
-https://7pal.short.gy/tntspts2
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="英超赛事", TNT Sports 3 FHD
-https://7pal.short.gy/tntspts3
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="英超赛事", TNT Sports 4 FHD
-https://7pal.short.gy/tntspts4
-
-
-
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="4K / UHD",Sky Sports Main Event UHD
-https://7pal.short.gy/SSMEuhd
-#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://i.imgur.com/3cW86E5.png" group-title="4K / UHD",Astro Sports UHD
-https://7pal.short.gy/astrouhd
-#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/eb3S5pZ.png" group-title="4K / UHD",beIN 4K
-https://7pal.short.gy/bein-uhd
-#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="4K / UHD",Now Sports 1 4k
-https://7pal.short.gy/nowsport4k
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="4K / UHD",Hub Premier 2 UHD
-https://7pal.short.gy/HubP2uhd
-#EXTINF:-1 tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/Q2qDLpV.png" group-title="4K / UHD",V Sport UltraHD
-https://7pal.short.gy/VSportUHD
-#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="4K / UHD",TNT Sport Ultimate
-https://7pal.short.gy/TNTUltimate
-#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="4K / UHD",ElevenSport1 4K
-https://7pal.short.gy/11sports1
-#EXTINF:-1 tvg-id="Prima.4K.ro" tvg-logo="https://i.imgur.com/TrumXXV.png" group-title="4K / UHD",Prima4K
-https://7pal.short.gy/prima4k
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="4K / UHD",Sky Sports F1 UHD
-https://7pal.short.gy/SSF1uhd
-#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="4K / UHD",Ziggo Sport UHD
-https://7pal.short.gy/ZiggoSport
-#EXTINF:-1 tvg-id="Sport.5.4K.il" tvg-logo="https://pixvid.org/images/2025/01/23/Sport5.png" group-title="4K / UHD",Sport5_4k
-https://7pal.short.gy/5sport
-#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="4K / UHD",EuroSport 4K 
-https://7pal.short.gy/eusport4k
-#EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-logo="https://i.imgur.com/26c7mQb.png" group-title="4K / UHD",M+LaLiga UHD 
-https://7pal.short.gy/mplusuhd
-#EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="4K / UHD",NESN UHD
-https://7pal.short.gy/nesnuhd
+//]]>
+</script>
 
 
 
 
+<meta content="light dark" name="color-scheme">
+<link rel="stylesheet" href="/assets/application-662d91a38dd06a2df4b8985027c71b8c5df8946c3e42ea382e19efc3fca0942b.css" media="(prefers-color-scheme: light)" />
+<link rel="stylesheet" href="/assets/application_dark-31e81a6a564d7cc3f615a7ddae375e2a0fd883729ff4f70d98f58349ef4dce10.css" media="(prefers-color-scheme: dark)" />
+<link rel="stylesheet" href="/assets/page_bundles/login-7240ec00cf3969b710fe5e8959f8ef8eeff66d635ded28839b1b4256ae8d96a3.css" /><link rel="stylesheet" href="/assets/page_bundles/commit_description-9e7efe20f0cef17d0606edabfad0418e9eb224aaeaa2dae32c817060fa60abcc.css" /><link rel="stylesheet" href="/assets/page_bundles/work_items-1ef547dbb03dd091b7ebddfe3a98841d7122e85b5c55bc62757746a2ba42e9c6.css" /><link rel="stylesheet" href="/assets/page_bundles/notes_shared-e58f07f39b2c4557134baf9f32b68c875fffb37fe1c5d8808fb7607d19f5690b.css" />
+<link rel="stylesheet" href="/assets/tailwind_cqs-f84c14f978471e903458db1024cb088bd6c8b45accb5fd1f8a12ffa0d9a0383b.css" />
 
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="咪咕视频",💎有比赛才有画面💎
-https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="咪咕视频",💎请注意比赛时间💎
-https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-4K 1
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-4K 2
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-1
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-2
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226373/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-3
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-4
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-5
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-6
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-7
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-8
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226381/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-9
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226382/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-10
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-11
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-12
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226387/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-13
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226388/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-14
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-15
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226394/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-16
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-17
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226396/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-18
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",咪咕赛事-19
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226398/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",睛彩广场舞
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227040/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",睛彩青少
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",睛彩竞技
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕视频",睛彩篮球
-http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+
+<link rel="stylesheet" href="/assets/fonts-deb7ad1d55ca77c0172d8538d53442af63604ff490c74acc2859db295c125bdb.css" />
+<link rel="stylesheet" href="/assets/highlight/themes/white-d436882f650831f756a6394bdaa66486d5ef99218601d4839f4d640558a4f307.css" media="(prefers-color-scheme: light)" />
+<link rel="stylesheet" href="/assets/highlight/themes/dark-9afe7e06099105c59ea8fe5379843ddf5c5dfcb3cc523eed3a9d4147f6ba7c5b.css" media="(prefers-color-scheme: dark)" />
+
+<script src="/assets/webpack/runtime.0085f7e0.bundle.js" defer="defer" nonce="I6a/zteYQOekE3AmCNh9Ww=="></script>
+<script src="/assets/webpack/main.9a24bd81.chunk.js" defer="defer" nonce="I6a/zteYQOekE3AmCNh9Ww=="></script>
+<script src="/assets/webpack/tracker.1eb446cb.chunk.js" defer="defer" nonce="I6a/zteYQOekE3AmCNh9Ww=="></script>
+<script nonce="I6a/zteYQOekE3AmCNh9Ww==">
+//<![CDATA[
+window.snowplowOptions = {"namespace":"gl","hostname":"snowplowprd.trx.gitlab.net","cookieDomain":".gitlab.com","appId":"gitlab","formTracking":true,"linkClickTracking":true};
+gl = window.gl || {};
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"production","source":"gitlab-rails","correlation_id":"9e646b6159d58199-IAD","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":null,"ultimate_parent_namespace_id":null,"project_id":null,"feature_enabled_by_namespace_ids":null,"realm":"saas","deployment_type":".com","context_generated_at":"2026-04-03T01:49:54.853Z","organization_id":1}};
+gl.snowplowPseudonymizedPageUrl = "https://gitlab.com/users/sign_in";
+gl.maskedDefaultReferrerUrl = null;
+gl.ga4MeasurementId = 'G-ENFH3X7M5Y';
+gl.duoEvents = ["ai_question_category","perform_completion_worker","process_gitlab_duo_question","agent_platform_session_created","agent_platform_session_dropped","agent_platform_session_finished","agent_platform_session_resumed","agent_platform_session_started","agent_platform_session_stopped","ai_response_time","ci_repository_xray_artifact_created","cleanup_stuck_agent_platform_session","click_dap_trial_or_paid_empty_state_agent","click_dap_trial_or_paid_empty_state_explore_agents_link","click_dap_trial_or_paid_empty_state_prompt","click_delete_ai_catalog_item_button","click_disable_ai_catalog_item_button","click_duo_agentic_not_available_empty_state_learn_more","click_duo_agentic_not_available_empty_state_start_trial","click_duo_agentic_trial_expired_learn_more","click_duo_agentic_trial_expired_upgrade","click_duplicate_ai_catalog_item_button","click_enable_ai_catalog_item_button","click_purchase_seats_button_group_duo_pro_home_page","close_vulnerability_resolution_merge_request","code_suggestion_accepted_in_ide","code_suggestion_rejected_in_ide","code_suggestion_shown_in_ide","code_suggestions_connection_details_rate_limit_exceeded","code_suggestions_direct_access_rate_limit_exceeded","code_suggestions_rate_limit_exceeded","create_ai_catalog_item","create_ai_catalog_item_consumer","create_ai_self_hosted_model","create_vulnerability_resolution_merge_request","default_answer","delete_ai_catalog_item","delete_ai_catalog_item_consumer","delete_ai_self_hosted_model","detected_high_comment_temperature","detected_repeated_high_comment_temperature","dismiss_sast_vulnerability_false_positive_analysis","dismiss_secret_detection_vulnerability_false_positive_analysis","encounter_duo_code_review_error_during_review","error_answer","excluded_files_from_duo_code_review","execute_llm_method","filter_ai_fp","find_no_issues_duo_code_review_after_review","find_nothing_to_review_duo_code_review_on_mr","finish_duo_workflow_execution","finish_mcp_tool_call","forced_high_temperature_commenting","i_quickactions_q","include_repository_xray_data_into_code_generation_prompt","mention_gitlabduo_in_mr_comment","merge_vulnerability_resolution_merge_request","post_comment_duo_code_review_on_diff","process_gitlab_duo_slash_command","react_thumbs_down_on_duo_code_review_comment","react_thumbs_up_on_duo_code_review_comment","reported_sast_vulnerability_false_positive_analysis","reported_secret_detection_vulnerability_false_positive_analysis","request_ask_help","request_duo_chat_response","request_review_duo_code_review_on_mr_by_author","request_review_duo_code_review_on_mr_by_non_author","requested_comment_temperature","retry_duo_workflow_execution","start_duo_workflow_execution","start_mcp_tool_call","submit_dap_trial_or_paid_empty_state_message","submit_gitlab_duo_question","tokens_per_embedding","tokens_per_user_request_prompt","tokens_per_user_request_response","trigger_ai_catalog_item","trigger_sast_vulnerability_fp_detection_workflow","trigger_sast_vulnerability_resolution_workflow","trigger_secret_detection_vulnerability_fp_detection_workflow","troubleshoot_job","update_ai_catalog_item","update_ai_catalog_item_consumer","update_ai_self_hosted_model","update_model_selection_feature","update_self_hosted_ai_feature_to_vendored_model","view_ai_catalog_item","view_ai_catalog_item_index","view_ai_catalog_project_catalog","view_ai_catalog_project_managed","view_dap_trial_or_paid_empty_state","view_duo_agentic_not_available_empty_state","view_duo_agentic_trial_expired_empty_state"];
+gl.onlySendDuoEvents = false;
+
+
+//]]>
+</script>
+<link rel="preload" href="/assets/application-662d91a38dd06a2df4b8985027c71b8c5df8946c3e42ea382e19efc3fca0942b.css" as="style" type="text/css" nonce="ylFOL0EnwGa9igaLDVMkbg==">
+<link rel="preload" href="/assets/highlight/themes/white-d436882f650831f756a6394bdaa66486d5ef99218601d4839f4d640558a4f307.css" as="style" type="text/css" nonce="ylFOL0EnwGa9igaLDVMkbg==">
+<link crossorigin="" href="https://snowplowprd.trx.gitlab.net" rel="preconnect">
+<link as="font" crossorigin="" href="/assets/gitlab-sans/GitLabSans-9892dc17af892e03de41625c0ee325117a3b8ee4ba6005f3a3eac68510030aed.woff2" rel="preload">
+<link as="font" crossorigin="" href="/assets/gitlab-sans/GitLabSans-Italic-f96f17332d67b21ada2dfba5f0c0e1d5801eab99330472057bf18edd93d4ccf7.woff2" rel="preload">
+<link as="font" crossorigin="" href="/assets/gitlab-mono/GitLabMono-29c2152dac8739499dd0fe5cd37a486ebcc7d4798c9b6d3aeab65b3172375b05.woff2" rel="preload">
+<link as="font" crossorigin="" href="/assets/gitlab-mono/GitLabMono-Italic-af36701a2188df32a9dcea12e0424c380019698d4f76da9ad8ea2fd59432cf83.woff2" rel="preload">
+<link rel="preload" href="/assets/fonts-deb7ad1d55ca77c0172d8538d53442af63604ff490c74acc2859db295c125bdb.css" as="style" type="text/css" nonce="ylFOL0EnwGa9igaLDVMkbg==">
 
 
 
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="咪咕体育",💎移动网络专用💎
-https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="咪咕体育",💎移动网络专用💎
-https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="咪咕体育",💎移动网络专用💎
-https://cccimg.com/down.php/9aa51c2f3ca945aefb295386d3a55f05.mp4
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 4K
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟙
-http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟚
-http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟛
-http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟜
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟝
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟞
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟟
-http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟠
-http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟡
-http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟙𝟘
-http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟙𝟙
-http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟙𝟚
-http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟙𝟛
-http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟙𝟜
-http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟙𝟝
-http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟙𝟞
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟙𝟟
-http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟙𝟠
-http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟙𝟡
-http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟚𝟘
-http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟚𝟙
-http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟚𝟚
-http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟚𝟛
-http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟚𝟜
-http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟚𝟝
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟚𝟞
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟚𝟟
-http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟚𝟠
-http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟚𝟡
-http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟛𝟘
-http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟛𝟙
-http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟛𝟚
-http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟛𝟛
-http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟛𝟜
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟛𝟝
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟛𝟞
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟛𝟟
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪咕体育",咪咕视频 𝟛𝟠
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
+<script src="/assets/webpack/sentry.914a2c3f.chunk.js" defer="defer" nonce="I6a/zteYQOekE3AmCNh9Ww=="></script>
+
+<script src="/assets/webpack/super_sidebar.404c77d3.chunk.js" defer="defer" nonce="I6a/zteYQOekE3AmCNh9Ww=="></script>
+<script src="/assets/webpack/commons-pages.admin.sessions-pages.groups.omniauth_callbacks-pages.ldap.omniauth_callbacks-pages.omn-aac29e51.0d16f065.chunk.js" defer="defer" nonce="I6a/zteYQOekE3AmCNh9Ww=="></script>
+<script src="/assets/webpack/pages.sessions.new.cf0bb63c.chunk.js" defer="defer" nonce="I6a/zteYQOekE3AmCNh9Ww=="></script>
+<script nonce="I6a/zteYQOekE3AmCNh9Ww==">
+//<![CDATA[
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+
+gtag('consent', 'default', {
+  'analytics_storage': 'granted',
+  'ad_storage': 'granted',
+  'functionality_storage': 'granted',
+  'wait_for_update': 500
+});
+
+gtag('consent', 'default', {
+  'analytics_storage': 'denied',
+  'ad_storage': 'denied',
+  'functionality_storage': 'denied',
+  'region': ['CA-QC', 'CO', 'EU', 'GB', 'IS', 'KR', 'LI', 'NO', 'PE', 'RU'],
+  'wait_for_update': 500
+});
+
+ window.geofeed = (options) => {
+    dataLayer.push({
+      'event': 'OneTrustCountryLoad',
+      'oneTrustCountryId': options.country.toString(),
+      'oneTrustStateId': options.state?.toString()
+    })
+  }
+
+  const json = document.createElement('script');
+  json.setAttribute('src', 'https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location/geofeed');
+  document.head.appendChild(json);
+
+//]]>
+</script><script nonce="I6a/zteYQOekE3AmCNh9Ww==">
+//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;j.setAttribute('nonce',
+'I6a/zteYQOekE3AmCNh9Ww==');f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJXWQL');
+
+
+//]]>
+</script>
+<!-- OneTrust -->
+<script src="https://cdn.cookielaw.org/consent/7f944245-c5cd-4eed-a90e-dd955adfdd08/OtAutoBlock.js" defer="defer" nonce="I6a/zteYQOekE3AmCNh9Ww=="></script>
+<script nonce="I6a/zteYQOekE3AmCNh9Ww==">
+//<![CDATA[
+const oneTrustScript = document.createElement('script');
+oneTrustScript.src = 'https://cdn.cookielaw.org/scripttemplates/otSDKStub.js';
+oneTrustScript.dataset.domainScript = '7f944245-c5cd-4eed-a90e-dd955adfdd08';
+oneTrustScript.nonce = 'I6a/zteYQOekE3AmCNh9Ww=='
+oneTrustScript.charset = 'UTF-8';
+oneTrustScript.defer = true;
+document.head.appendChild(oneTrustScript);
+
+function OptanonWrapper() { }
+
+
+//]]>
+</script>
+
+<meta content="object" property="og:type">
+<meta content="GitLab" property="og:site_name">
+<meta content="Sign in · GitLab" property="og:title">
+<meta content="GitLab.com" property="og:description">
+<meta content="https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" property="og:image">
+<meta content="64" property="og:image:width">
+<meta content="64" property="og:image:height">
+<meta content="https://gitlab.com/users/sign_in" property="og:url">
+<meta content="summary" property="twitter:card">
+<meta content="Sign in · GitLab" property="twitter:title">
+<meta content="GitLab.com" property="twitter:description">
+<meta content="https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" property="twitter:image">
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="OhgUkdzsVFA9v4pZWFgRP0NxBNXNfLRYmMtZLAasmwvY82LrUwtlUqqmzQVoUCLkn84p1LUIi1e0FTzxuF1XwA" />
+<meta name="csp-nonce" content="I6a/zteYQOekE3AmCNh9Ww==" />
+<meta name="action-cable-url" content="/-/cable" />
+<link href="/-/manifest.json" rel="manifest">
+<link rel="icon" type="image/png" href="/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" id="favicon" data-original-href="/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/apple-touch-icon-b049d4bc0dd9626f31db825d61880737befc7835982586d015bded10b4435460.png" />
+<link href="/search/opensearch.xml" rel="search" title="Search GitLab" type="application/opensearchdescription+xml">
 
 
 
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png",TNT SPORTS 1
-https://bee.tzh911.qzz.io/bee.php?id=TNT-Sports-1
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png",TNT SPORTS 1 [備線1]
-https://bee.tzh911.qzz.io/bee.php?id=TNT-Sports-1-BU
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png",TNT SPORTS 1 [備線2]
-https://bee.tzh911.qzz.io/bee.php?id=TNT_Sports_1
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/s1-n-k-n3-b-sj-q-mam9-f-xn-w-g-rfo-q-o-ngb-pqypaz-ub5tj11.png",TNT SPORTS 2
-https://bee.tzh911.qzz.io/bee.php?id=TNT-Sports-2
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/s1-n-k-n3-b-sj-q-mam9-f-xn-w-g-rfo-q-o-ngb-pqypaz-ub5tj11.png",TNT SPORTS 2 [備線1]
-https://bee.tzh911.qzz.io/bee.php?id=TNT-Sports-2-BU
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-i-r-x-l3-u2ut-d2-zn-foo9-k-u-h-a-duh-a-s-w-e-f-p-p-qrdm-v-v-x-c.png",TNT SPORTS 3
-https://bee.tzh911.qzz.io/bee.php?id=TNT-Sports-3
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-i-r-x-l3-u2ut-d2-zn-foo9-k-u-h-a-duh-a-s-w-e-f-p-p-qrdm-v-v-x-c.png",TNT SPORTS 3 [備線1]
-https://bee.tzh911.qzz.io/bee.php?id=TNT-Sports-3-BU
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png",TNT SPORTS 4
-https://bee.tzh911.qzz.io/bee.php?id=TNT-Sports-4
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png",TNT SPORTS 4 [備線1]
-https://bee.tzh911.qzz.io/bee.php?id=TNT-Sports-4-BU
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k-v-dh-zp-i-qa-alh-lgx1-jpu-y-y-q-m-t-c4-o7-fi7-rc-fcqz-uup.png",SKY SPORTS FOOTBALL
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Football
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k-v-dh-zp-i-qa-alh-lgx1-jpu-y-y-q-m-t-c4-o7-fi7-rc-fcqz-uup.png",SKY SPORTS FOOTBALL [備線1]
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Football-BU
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8-a1o6-z1-vb-a-dve-w2-xa-c-kb9-odz-hewz-yl0-w-p-c-l-hcr7p.png",SKY SPORTS MAIN EVENT
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Main-Event
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8-a1o6-z1-vb-a-dve-w2-xa-c-kb9-odz-hewz-yl0-w-p-c-l-hcr7p.png",SKY SPORTS MAIN EVENT [備線1]
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Main-Event-BU
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/9e-er-o-p5-u-cxgq-vhw-xrj8-c0-j-er6h-p-u6-d-ee-uc-yo-p761.svg",SKY SPORTS PREMIER LEAGUE
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Premier-League
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/9e-er-o-p5-u-cxgq-vhw-xrj8-c0-j-er6h-p-u6-d-ee-uc-yo-p761.svg",SKY SPORTS PREMIER LEAGUE [備線1]
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Premier-League-BU
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/la-fw-h-oy-u5-i1-f-x1-i-s-d-v-s-bxs-a-so-n85-sjiw8-ql-igz-w-f.png",SKY SPORTS MIX
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Mix
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/l-gy5-lwm-a-tg-hek2-f-hb8l-ff-km-z-l-i8-ww-z-pf-iuw3ts-jd.png",SKY SPORTS ARENA
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Arena
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-g7y-pm-t-wijfcn-w9u00x1-v-wr-x-pgbgdsi-b1ixvdx-p-m.png",SKY SPORTS NEWS
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-News
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/o-k37-cj0-vvsn-xq1-p-hph-x-s-a-nw4-awo-e-qai-m-b-is-u-l-ntx.png",SKY SPORTS CRICKET
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Cricket
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k-ww-c-i-q-eb-f-xu-e-xi-fkjo56ya-oi-g-hm-j8-d-dz-cezx8279.png",Sky Sports Tennis
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Tennis
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/i-u-rj7vj-y-h5-u-b-chr2-s-bdjm-qp-o8-a-k-obc-c94kh-fv-r-kk.png",SKY SPORTS F1
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-F1
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/n-o-wzh-xjqvb-qs-txqgd3s-u-n-ft-u-s-a7-x-s-p-hfh4da1tgy.png",SKY SPORTS GOLF
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Golf
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/kfl5-li-lg-c2-z-a-wz-as136l9v9u-jl-i-r-xa-s-ofco-y-k-h-b8.png",SKY SPORTS RACING
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Sports-Racing
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/nlt-ev-a9qj-h-qa-hh-x1-n-mx-yg-iyriul-rmt-qz-b-a-jcxg9-p.png",BEIN SPORTS USA
-https://bee.tzh911.qzz.io/bee.php?id=Bein-Sports-USA
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/nlt-ev-a9qj-h-qa-hh-x1-n-mx-yg-iyriul-rmt-qz-b-a-jcxg9-p.png",BEIN SPORTS USA [備線1]
-https://bee.tzh911.qzz.io/bee.php?id=BEIN-SPORT-USA-BU
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/Hvg8f5rQIhHrfUN9zPsktEzu928QoTjhk2NpAqPK.png",Racing TV
-https://bee.tzh911.qzz.io/bee.php?id=Racing-TV
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/94bbab25-acbc-4e62-9468-39038ac16f92-tc_og.png",TENNIS CHANNEL
-https://bee.tzh911.qzz.io/bee.php?id=Tennis-Channel
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/2560px--sky_-cinema_-comedy_-_-logo_2016.svg.png",Sky Cinema Comedy
-https://bee.tzh911.qzz.io/bee.php?id=UK-Sky-Cinema-Comedy
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/2560px--sky_-cinema_-family_-_-logo_2021.svg.png",Sky Cinema Family
-https://bee.tzh911.qzz.io/bee.php?id=UK-Sky-Cinema-Family
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/xoFwpmX85KdS4KiiKZh2HTg7z9C588zrClleoH0u.webp",Sky Cinema Action
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Cinema-Action
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/So67ypbXnCLB8aIICUay2TfFiwlXh5mDh5GPw7Pc.svg",Sky Cinema Animation
-https://bee.tzh911.qzz.io/bee.php?id=Sky-Cinema-Animation
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/9r-j-w92-g-j-imn-a2vfqm6v-k-er0-n-o9-k-l8-b-phk-a4cv-cbq.png",DAZN
-https://bee.tzh911.qzz.io/bee.php?id=DAZN-TV
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/be-i-n_-s-p-o-r-t-s1_-e-n-g-l-i-s-h_-digital_-mono.png",Bein Sports English 1
-https://bee.tzh911.qzz.io/bee.php?id=Bein-Sports-English-1
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/v-hu-vg-g-s-gu-t-yy-i2usg-k8-bh-y-ov-fo-pv9n-g65z-dm-txo3.png",Bein Sports English 2
-https://bee.tzh911.qzz.io/bee.php?id=Bein-Sports-English-2
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/",Bein Sports English 3
-https://bee.tzh911.qzz.io/bee.php?id=Bein-Sports-English-3
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8e-oj-t6-c-f3arb-q-seorft-m-fem-cy4ww-w-azm-ta0sempl.png",Eurosport 2
-https://bee.tzh911.qzz.io/bee.php?id=Eurosport-2
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/s-p4-kxd-v-lp-hl9-y-t-fb-e-wz-m0-n8k-kkgg-h-pkccaqcc-bdu.png",Premier Sports 1
-https://bee.tzh911.qzz.io/bee.php?id=Premier-Sports-1
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/1-gbngsz7-d-l-xy3x6-m-sk5xw-fj3-h-v42-r-e-cr-p1h4-dlyn.png",Premier Sports 2
-https://bee.tzh911.qzz.io/bee.php?id=Premier-Sports-2
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/r-a5-e-z-f-zrrvis-h-c-m5l-b-r-y-f7yu8h5-x04qu-ka-b047-a-v.png",Golf Channel
-https://bee.tzh911.qzz.io/bee.php?id=Golf-Channel
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/1200px--m-l-b-network-logo.svg.png",MLB Network
-https://bee.tzh911.qzz.io/bee.php?id=MLB-Network
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/m-g3-iq91-ukrb-cn24-w-zuxpr-j-mm-b9tv-m7-hb-b3-v9-gw95.svg",NFL Network
-https://bee.tzh911.qzz.io/bee.php?id=NFL-Network
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/iwzyqv-vw-j0c-du-w3-mr-mb3cg82e-e-mr-m-b-v-y-e-nw-hw-fmh.png",NFL REDZONE
-https://bee.tzh911.qzz.io/bee.php?id=NFL-REDZONE
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/c-l33-tbx4-bvcvs8s-p-zfvwzd-nk-r-b-vncgag-w-jy-x-k-ol-t.png",WWE
-https://bee.tzh911.qzz.io/bee.php?id=WWE
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/to0if-g-f-pzs3i-my1-d-spsrs3-sv-wn-k-h-m-sya-fz6b-meh4.png",Willow Cricket
-https://bee.tzh911.qzz.io/bee.php?id=Willow-Cricket
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/xs7-c-u-j2d-j-h-r-i6s-zgr7-dyp-n-s-a-mn-z7-kpq-hf6y-wwvx-i.png",ESPN
-https://bee.tzh911.qzz.io/bee.php?id=ESPN
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/512px--e-s-p-n2_logo.svg.png",ESPN 2
-https://bee.tzh911.qzz.io/bee.php?id=ESPN-2
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/2-g-ojo-g33-ls-wv-cf3-j-a-h-z-ojpp3y4-q4-fuj-c-p-r-oi-r-m4o.png",ESPN News
-https://bee.tzh911.qzz.io/bee.php?id=ESPN-News
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t9vr-m9-p-v1p-y-wh-rm-v-d-tj-dxo-d-af-xb3-zz67-f-dn-pane-y.png",ESPN U
-https://bee.tzh911.qzz.io/bee.php?id=ESPN-U
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/8lPFlMIg4VQSlx0OGlDRH5OM5qMomtsfwzQiyeLo.png",ESPN Deportes
-https://bee.tzh911.qzz.io/bee.php?id=ESPN-Deportes
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/8lPFlMIg4VQSlx0OGlDRH5OM5qMomtsfwzQiyeLo.png",ESPN Deportes [備線1]
-https://bee.tzh911.qzz.io/bee.php?id=ESPN-Deportes-BU
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/nd9b-n-us-b-m0lw-zka-ilkgas-bu-v-b4-y-b-fcug6-va-j-c-y-i-g.png",MUTV
-https://bee.tzh911.qzz.io/bee.php?id=MUTV
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/microsoft-teams-image_(13).png",LFC TV
-https://bee.tzh911.qzz.io/bee.php?id=LFC-TV
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/x-c1-yl3tu1-ga-wl-e-o3b-w-aiye3e127-l5yarb-ot2-ezxe.png",Fight Network
-https://bee.tzh911.qzz.io/bee.php?id=Fight-Network
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a4df4ef049b119253c9833bea8ed6515.jpg",CBS Sports Network
-https://bee.tzh911.qzz.io/bee.php?id=CBS-Sports-Network
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/y7-y-yvh-ej8piz6c2-ium-vye-z-q77au-v4-p-do-h-s-nen-d-qr.png",Fox Sports 1
-https://bee.tzh911.qzz.io/bee.php?id=Fox-Sports-1
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/6-ff-p-flc-r8kqe-k-o-n6-x-v0-cjr-mfei5gtm-e3-wj-x7e-vk-a.png",Fox Sports 2
-https://bee.tzh911.qzz.io/bee.php?id=Fox-Sports-2
 
-# ----- 新聞財經 (4 個頻道) -----
-#EXTINF:-1 group-title="新聞財經" tvg-logo="https://center.urlix.co/storage/images/uN6eIk65I2im0d4ojxIloksV9wyxbVshhM8Num6J.jpg",BBC News
-https://bee.tzh911.qzz.io/bee.php?id=BBC-News
-#EXTINF:-1 group-title="新聞財經" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/768px--fox_-news_-channel_logo.svg.png",FOX NEWS
-https://bee.tzh911.qzz.io/bee.php?id=FOX-NEWS
-#EXTINF:-1 group-title="新聞財經" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t-tgl-m-ns6-d-r6bcw3qf-il-l8a-rg-k-l-ll-dmc-p-v5h7-s-wg-d.png",CNBC
-https://bee.tzh911.qzz.io/bee.php?id=CNBC
-#EXTINF:-1 group-title="新聞財經" tvg-logo="https://center.urlix.co/storage/images/PEoLnkz4lbWBN4A79dA6p1nOi15uD1VE8CN2mqT4.svg",NBC UNIVERSO
-https://bee.tzh911.qzz.io/bee.php?id=NBC-UNIVERSO
+<meta content="GitLab.com" name="description">
+<meta content="#F1F0F6" media="(prefers-color-scheme: light)" name="theme-color">
+<meta content="#232128" media="(prefers-color-scheme: dark)" name="theme-color">
+</head>
 
-# ----- 綜合頻道 (14 個頻道) -----
-#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://center.urlix.co/storage/images/zK62gh9S9Z9TpM5RiSseKzM4hs9Wz3oTuaIqa8D4.jpg",BBC Three
-https://bee.tzh911.qzz.io/bee.php?id=BBC-Three
-#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://center.urlix.co/storage/images/MUfPvwYCKrhk35p5BQ4qRBktD9iBALX4dMOqFV8q.jpg",BBC FOUR
-https://bee.tzh911.qzz.io/bee.php?id=BBC-FOUR
-#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://center.urlix.co/storage/images/dMcVmNAd6ayvAw11IJi3LnMrftYrkM5VGoY3roDR.webp",BBC One
-https://bee.tzh911.qzz.io/bee.php?id=BBC-1
-#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://center.urlix.co/storage/images/o8L1QWPS4sWAdPbaDiGKqqu5BspdchEK3l1834EQ.png",BBC Two
-https://bee.tzh911.qzz.io/bee.php?id=BBC-2
-#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/z-n1gy-tr71-xm1uia7-m8-jv-e-t0ygm-ql47v-h4-d5wu-t91.png",Virgin 3
-https://bee.tzh911.qzz.io/bee.php?id=UK-Virgin-3
-#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/c7-mg-r-w1l-p-k-cm-sc-rd-w-b-dhs-n90-b-uc-qozpi3-v-dwtmz-a.png",Virgin 1
-https://bee.tzh911.qzz.io/bee.php?id=UK-Virgin-1
-#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8z795-gbo1duqut1-f32-ga-ip-b-a8-urzp90c-g-u-dm-r-c2-o.svg",NHL Network
-https://bee.tzh911.qzz.io/bee.php?id=NHL-Network
-#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/ui-yy7ozk-m-unr-o33oc-izqx-el5-ewy-kg-v2vo-p-no-i-e-b-b.svg",World Fishing Network
-https://bee.tzh911.qzz.io/bee.php?id=World-Fishing-Network
-#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t-t-zte39n-nu-a-z-cr-to-h-c7k5-shg-n-yaa9-ccl-iljf2onx.png",ITV 1
-https://bee.tzh911.qzz.io/bee.php?id=ITV-1
-#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-pt-eo-s-rm-jk-n-b1-qg9v-b-x-n-l-la-m-z-vp6-i-w4-l-j-t7-j-g01-c.png",ITV 2
-https://bee.tzh911.qzz.io/bee.php?id=ITV-2
-#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/3j3ra-qdk-rm3-cz-c9l-iyhrk-si82-oyshnipxl8os-sm-n.png",ITV 3
-https://bee.tzh911.qzz.io/bee.php?id=ITV-3
-#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/d0-sx-p-n7-cb6-o-n-rdi-m-w-bnrzrrzgu-k-u-srs-h-d-b-q-gy-l5w.png",ITV 4
-https://bee.tzh911.qzz.io/bee.php?id=ITV-4
-#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-c-c_-network_-raycom_-logo.png",ACC Network
-https://bee.tzh911.qzz.io/bee.php?id=ACC-Network
-#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://center.urlix.co/storage/images/7N4k68afYicjhSWwU5Kx0yTlVY9A1Ob5iYPUmXPF.jpg",BBC Red Button
-https://bee.tzh911.qzz.io/bee.php?id=BBC-Red-Button
+<body class="gl-h-full login-page gl-browser-generic gl-platform-other" data-page="sessions:new" data-testid="login-page">
 
-# ----- 其他綜合 (4 個頻道) -----
-#EXTINF:-1 group-title="其他綜合" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/g-e46rp-x-a-j-o-cxma-gth2-ovp5sf-az-g4p-eq-v-vlyost-q-l.png",LALIGA TV HD
-https://bee.tzh911.qzz.io/bee.php?id=La-Liga-TV
-#EXTINF:-1 group-title="其他綜合" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/g-e46rp-x-a-j-o-cxma-gth2-ovp5sf-az-g4p-eq-v-vlyost-q-l.png",LALIGA TV HD [備線1]
-https://bee.tzh911.qzz.io/bee.php?id=LA-LIGA-TV-BU
-#EXTINF:-1 group-title="其他綜合" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k9-cbp-r-zcaom-r-jayck5v-qr-m-o-n-zqop9v1-e-s-u-z-g-kk3b.png",Willow Extra
-https://bee.tzh911.qzz.io/bee.php?id=Willow-Extra
-#EXTINF:-1 group-title="其他綜合" tvg-logo="https://center.urlix.co/storage/images/QThyDK3aE2AEGNXcjaaFUHeFgNy3X5izleCb6QT4.png",Fox Soccer Plus
-https://bee.tzh911.qzz.io/bee.php?id=Fox-Soccer-Plus
-#EXTINF:-1 group-title="其他綜合" tvg-logo="https://center.urlix.co/storage/images/WwxRNu3hV1UHfo1EYkbbUyqPrTbiwOfAhztbwrff.jpg",FOX DEPORTES
-https://bee.tzh911.qzz.io/bee.php?id=FOX-DEPORTES
-#EXTINF:-1 group-title="其他綜合" tvg-logo="https://center.urlix.co/storage/images/WwxRNu3hV1UHfo1EYkbbUyqPrTbiwOfAhztbwrff.jpg",FOX DEPORTES [備線1]
-https://bee.tzh911.qzz.io/bee.php?id=FOX-DEPORTES-BU
+<script nonce="I6a/zteYQOekE3AmCNh9Ww==">
+//<![CDATA[
+gl = window.gl || {};
+gl.client = {"isGeneric":true,"isOther":true};
 
-# ----- 戲劇電影 (6 個頻道) -----
-#EXTINF:-1 group-title="戲劇電影" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/r-d9d247-s1-q-wg-g-lcg-c-g-ps2r-s-t6024f-l-ak-eld-h-e-m-tn.png",HBO 1
-https://bee.tzh911.qzz.io/bee.php?id=HBO
-#EXTINF:-1 group-title="戲劇電影" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/5-tj1j-wtmcg-o-zj-egka-yk-s-x-p-puqfj03x0w-ka-b-rwcy-o.png",HBO 2
-https://bee.tzh911.qzz.io/bee.php?id=HBO-2
-#EXTINF:-1 group-title="戲劇電影" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/euzl-x-u-j-t8dx9s-puq8-hh5-g-m-rlmzu-sek-cn1ra-g-g-my2.png",Discovery Channel
-https://bee.tzh911.qzz.io/bee.php?id=Discovery-Channel
-#EXTINF:-1 group-title="戲劇電影" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/152-b-g-b-ja-rg9je-jt-nw8-xm7-en-g-uayb-i-u-x-mjc5od5d5.png",Discovery Life
-https://bee.tzh911.qzz.io/bee.php?id=Discovery-Life
-#EXTINF:-1 group-title="戲劇電影" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/waj-k6-w-wwz-x-np7-h573-ir-p-sj-x-ewjdwmvri-bfz-aimc1.png",Cinemax West
-https://bee.tzh911.qzz.io/bee.php?id=Cinemax-West
-#EXTINF:-1 group-title="戲劇電影" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-r-yjt-u-b-a-hk-q-tvi-dbq-n5q-n7-a-a-rd0gxv-f-ks-l-j6-yml-s.png",Great Movies
-https://bee.tzh911.qzz.io/bee.php?id=UK-Great-Movies
 
-# ----- 兒童卡通 (1 個頻道) -----
-#EXTINF:-1 group-title="兒童卡通" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-i-gsl2-n77-dpt-h-wdy-q-c-f-odhz-gf-x-a-h-sje4z3-q-a0-qn-o.png",Cartoon Network
-https://bee.tzh911.qzz.io/bee.php?id=UK-Cartoon-Network
+//]]>
+</script>
+
+
+<div class="gl-h-full gl-flex gl-flex-wrap">
+<div class="container gl-self-center">
+<main class="content">
+<div class="flash-container flash-container-page sticky" data-testid="flash-container">
+<div id="js-global-alerts"></div>
+</div>
+
+<div class="gl-my-5">
+<div class="col-sm-12 gl-text-center">
+<img alt="GitLab.com" class="gl-invisible gl-h-10 js-portrait-logo-detection lazy" data-src="/assets/logo-911de323fa0def29aaf817fca33916653fc92f3ff31647ac41d2c39bbe243edb.svg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<h1 class="mb-3 gl-text-size-h2">
+Sign in to GitLab
+</h1>
+</div>
+<div class="gl-w-full gl-ml-auto gl-mr-auto bar sm:gl-w-1/2">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJXWQL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="js-non-oauth-login">
+<div data-app-data="{&quot;sign_in_path&quot;:&quot;/users/sign_in&quot;,&quot;users_sign_in_path_path&quot;:&quot;/users/sign_in_path&quot;,&quot;passkeys_sign_in_path&quot;:&quot;/users/passkeys/sign_in&quot;,&quot;is_unconfirmed_email&quot;:false,&quot;new_user_confirmation_path&quot;:&quot;/users/confirmation/new&quot;,&quot;new_password_path&quot;:&quot;/users/password/new&quot;,&quot;show_captcha&quot;:false,&quot;is_remember_me_enabled&quot;:true}" id="js-sign-in-form">
+<div class="gl-spinner-container gl-my-5" role="status"><span aria-hidden class="gl-spinner gl-spinner-md gl-spinner-dark !gl-align-text-bottom"></span><span class="gl-sr-only !gl-absolute">Loading</span>
+</div>
+<form action="/users/sign_in" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Op_BqKicyXGUgaxmXAzLgSS5Qz4mHvVz3O2S28_1FVDYdLfSJ3v4cwOY6zpsBPha-AZuP15qynzwM_cGcQTZmw" autocomplete="off" /><input data-js-name="login" autocomplete="off" type="hidden" name="user[login]" id="user_login" />
+<input data-js-name="password" autocomplete="off" type="hidden" name="user[password]" id="user_password" />
+<input data-js-name="rememberMe" autocomplete="off" type="hidden" name="user[remember_me]" id="user_remember_me" />
+</form></div>
+
+</div>
+<div class="gl-mt-3">
+By signing in you accept the <a href='/-/users/terms' target='_blank' rel='noreferrer noopener'>Terms of Use and acknowledge the Privacy Statement and Cookie Policy</a>.
+</div>
+<div class="gl-mt-3 gl-text-center">
+Don&#39;t have an account yet?
+<a data-testid="register-link" data-track-action="click_register_from_sign_in_page" data-track-label="free_registration" href="/users/sign_up?from_sign_in=true">Register now</a>
+</div>
+<div class="gl-flex gl-items-center gl-gap-5" data-testid="divider">
+<hr class="gl-grow gl-border-default">
+or sign in with
+<hr class="gl-grow gl-border-default">
+</div>
+
+<div class="gl-mt-5 gl-text-center gl-flex gl-flex-col gl-gap-3 js-oauth-login">
+<form class="js-omniauth-form" method="post" action="/users/auth/google_oauth2"><button class="gl-button btn btn-block btn-md btn-default " type="submit"><span class="gl-button-text">
+<img alt="Google" title="Sign in with Google" class="gl-button-icon lazy" data-src="/assets/auth_buttons/google_64-9ab7462cd2115e11f80171018d8c39bd493fc375e83202fbb6d37a487ad01908.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<span class="gl-button-text">
+Google
+</span>
+
+</span>
+
+</button><input type="hidden" name="authenticity_token" value="4CSVQRoDIgeCas8IoZWOm3X6ipSZAdOixD9Zoc0bZqoCz-M7leQTBRVziFSRnb1AqUWnleF17K3o4Tx8c-qqYQ" autocomplete="off" /></form>
+<form class="js-omniauth-form" method="post" action="/users/auth/github"><button class="gl-button btn btn-block btn-md btn-default " data-testid="github-login-button" type="submit"><span class="gl-button-text">
+<img alt="GitHub" title="Sign in with GitHub" class="gl-button-icon lazy" data-src="/assets/auth_buttons/github_64-84041cd0ea392220da96f0fb9b9473c08485c4924b98c776be1bd33b0daab8c0.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<span class="gl-button-text">
+GitHub
+</span>
+
+</span>
+
+</button><input type="hidden" name="authenticity_token" value="cwmH5QuOm3vIXKD7TIz1oaTJddW8TX-fSQ8FoQi-1rWR4vGfhGmqeV9F56d8hMZ6eHZY1MQ5QJBl0WB8tk8afg" autocomplete="off" /></form>
+<form class="js-omniauth-form" method="post" action="/users/auth/bitbucket"><button class="gl-button btn btn-block btn-md btn-default " type="submit"><span class="gl-button-text">
+<img alt="Bitbucket" title="Sign in with Bitbucket" class="gl-button-icon lazy" data-src="/assets/auth_buttons/bitbucket_64-daa496030c0c290748e3c2e50f7464d2f5de0e019cce728930e0508a6dac815c.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<span class="gl-button-text">
+Bitbucket
+</span>
+
+</span>
+
+</button><input type="hidden" name="authenticity_token" value="uV6PxTKf9gTCYIhNNesakbWpwNkrv-KpCnPqoZ4jIS1btfm_vXjHBlV5zxEF4ylKaRbt2FPL3aYmrY98INLt5g" autocomplete="off" /></form>
+<form class="js-omniauth-form" method="post" action="/users/auth/salesforce"><button class="gl-button btn btn-block btn-md btn-default " type="submit"><span class="gl-button-text">
+<span class="gl-button-text">
+Salesforce
+</span>
+
+</span>
+
+</button><input type="hidden" name="authenticity_token" value="fVRQvfYB15y2Z-hPwmMKnhmHOPk7Hyn-oiqAnkt8ClSfvybHeebmniF-rxPyazlFxTgV-ENrFvGO9OVD9Y3Gnw" autocomplete="off" /></form>
+<div class="gl-form-checkbox custom-control custom-checkbox">
+<input type="checkbox" name="js-remember-me-omniauth" id="js-remember-me-omniauth" class="custom-control-input" />
+<label class="custom-control-label" for="js-remember-me-omniauth"><span>Remember me
+</span></label>
+</div>
+</div>
+
+
+</div>
+</div>
+</main>
+</div>
+<div class="footer-container gl-w-full gl-self-end">
+<hr class="gl-m-0">
+<div class="container gl-py-5 gl-flex gl-justify-between gl-items-start">
+<div class="gl-hidden md:gl-flex gl-gap-5 gl-flex-wrap">
+<a href="/explore">Explore</a>
+<a href="/help">Help</a>
+<a href="https://about.gitlab.com">About GitLab</a>
+<a target="_blank" class="text-nowrap" rel="noopener noreferrer" href="https://forum.gitlab.com">GitLab community forum</a>
+</div>
+<button class="gl-button btn btn-sm btn-default btn-default-tertiary ot-sdk-show-settings" type="button"><span class="gl-button-text">
+Cookie Preferences
+
+</span>
+
+</button><div class="js-language-switcher" data-locales="[{&quot;value&quot;:&quot;en&quot;,&quot;percentage&quot;:100,&quot;text&quot;:&quot;English&quot;},{&quot;value&quot;:&quot;ko&quot;,&quot;percentage&quot;:99,&quot;text&quot;:&quot;한국어&quot;},{&quot;value&quot;:&quot;ja&quot;,&quot;percentage&quot;:99,&quot;text&quot;:&quot;日本語&quot;},{&quot;value&quot;:&quot;ga_IE&quot;,&quot;percentage&quot;:99,&quot;text&quot;:&quot;Gaeilge&quot;},{&quot;value&quot;:&quot;pt_BR&quot;,&quot;percentage&quot;:98,&quot;text&quot;:&quot;português (Brasil)&quot;},{&quot;value&quot;:&quot;it&quot;,&quot;percentage&quot;:98,&quot;text&quot;:&quot;italiano&quot;},{&quot;value&quot;:&quot;fr&quot;,&quot;percentage&quot;:97,&quot;text&quot;:&quot;français&quot;},{&quot;value&quot;:&quot;es&quot;,&quot;percentage&quot;:97,&quot;text&quot;:&quot;español&quot;},{&quot;value&quot;:&quot;de&quot;,&quot;percentage&quot;:96,&quot;text&quot;:&quot;Deutsch&quot;},{&quot;value&quot;:&quot;zh_CN&quot;,&quot;percentage&quot;:93,&quot;text&quot;:&quot;简体中文&quot;}]"></div>
+
+</div>
+</div>
+
+
+</div>
+</body>
+</html>

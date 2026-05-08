@@ -348,7 +348,7 @@ CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
 八度空间Pdtv,http://rihou.cc:555/tv/[Pd]八度空间
 欣赏频道,#genre#
-粤语戏曲欣赏,p3p://focus169.org:47731/679d953d000945e59987130a6e93668b
+粤语戏曲欣赏,https://test.946985.filegear-sg.me/proxy/ecb0453314ebdc87
 粤语戏曲欣赏,http://tl.061833.xyz/tl/null-15
 粤语长片欣赏,p3p://focus169.org:47731/643361c7000d4bee220f05703b541d41
 粤语长片欣赏,http://tl.061833.xyz/tl/null-10

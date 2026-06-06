@@ -1,11 +1,3 @@
-NBA赛评,#genre#
-06-06⬇️NBA总决赛G2⬇️🏀📡,http://rihou.cc:555/tv/t
-08:30尼克斯(1🆚0)马刺,http://rihou.cc:555/tv/v
-粤🔊06小肥述,http://rihou.cc:555/tv/06NBA小肥述
-粤🔊06金爷述,http://rihou.cc:555/tv/06NBA金爷述
-国🔊06咪评述,http://rihou.cc:555/tv/06NBA咪评述
-国🔊06腾评述,http://rihou.cc:555/tv/06NBA腾评述
-国🔊06纬来述,http://rihou.cc:555/tv/06NBA纬来述
 国青赛评,#genre#
 06-06⬇️中国之队·国际青年足球邀请赛⬇️🏀📡,http://rihou.cc:555/tv/t
 15:30中国U23🆚塔吉克斯坦U23,http://rihou.cc:555/tv/v
@@ -34,7 +26,7 @@ NBA赛评,#genre#
 国🔊08土评述,http://rihou.cc:555/tv/08土伦咪评述
 6/09赛事,#genre#
 06-09⬇️NBA总决赛G3⬇️🏀📡,http://rihou.cc:555/tv/t
-08:30马刺(🆚)尼克斯,http://rihou.cc:555/tv/v
+08:30马刺(0🆚2)尼克斯,http://rihou.cc:555/tv/v
 粤🔊09小肥述,http://rihou.cc:555/tv/09NBA小肥述
 国🔊09咪评述,http://rihou.cc:555/tv/09NBA咪评述
 国🔊09腾评述,http://rihou.cc:555/tv/09NBA腾评述

@@ -89,6 +89,13 @@ CGTN-法咪咕,http://42.194.148.122:1234/609006476
 陕西卫视咪咕,http://42.194.148.122:1234/738910838
 兵团卫视咪咕,http://42.194.148.122:1234/956923145
 黑龙江视咪咕,http://42.194.148.122:1234/738906901
+欣赏港乐,#genre#
+⬇️港风女声⬇️,http://rihou.cc:555/tv/t
+港风粤语女一,http://rihou.cc:555/tv/港风粤语女一
+港风粤语女二,http://rihou.cc:555/tv/港风粤语女二
+港风粤语女三,http://rihou.cc:555/tv/港风粤语女三
+港风粤语女四,http://rihou.cc:555/tv/港风粤语女四
+港风粤语女五,http://rihou.cc:555/tv/港风粤语女五
 特新Pdtv,#genre#
 Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
 凤凰中文Pdtv,http://rihou.cc:555/tv/[Pd]凤凰中文

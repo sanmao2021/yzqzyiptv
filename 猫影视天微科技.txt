@@ -98,7 +98,7 @@ NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛07
 08-08⬇️甘肃省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
 10:00嘉峪关队🆚兰州队,http://rihou.cc:555/tv/v
 国🔊08陇评述,http://rihou.cc:555/tv/08陇超咪评述
-19:00陇南队🆚甘南队,http://rihou.cc:555/tv/v
+19:30陇南队🆚甘南队,http://rihou.cc:555/tv/v
 国🔊08陇述评,http://rihou.cc:555/tv/08陇超咪述评
 鲁超08赛,#genre#
 08-08⬇️山东省足球超级联赛⬇️⚽📡,http://rihou.cc:555/tv/t
@@ -166,6 +166,10 @@ NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛07
 国🔊08苏述评,http://rihou.cc:555/tv/08苏超咪述评
 19:40徐州队🆚常州队,http://rihou.cc:555/tv/v
 国🔊08苏评评,http://rihou.cc:555/tv/08苏超咪评评
+热身08赛,#genre#
+08-08⬇️足球热身赛⬇️⚽📡,http://rihou.cc:555/tv/t
+20:00车路士🆚AC米兰,http://rihou.cc:555/tv/v
+国🔊08热评述,http://rihou.cc:555/tv/08热身咪评述
 疆超08赛,#genre#
 08-08⬇️疆超季军赛⬇️⚽📡,http://rihou.cc:555/tv/t
 21:00吐鲁番队🆚阿勒泰队,http://rihou.cc:555/tv/v
